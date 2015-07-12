@@ -16,7 +16,7 @@ Requests takes all of the work out of Python HTTP/1.1 — making your integratio
 
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 
-#### Steps to be followed to run the script.
+#### Steps to be followed to run the script - 
 
 ###### 1. Fork the repository
 ###### 2. Change over to the forked repository
