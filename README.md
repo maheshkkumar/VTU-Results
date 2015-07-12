@@ -15,3 +15,10 @@ Requests takes all of the work out of Python HTTP/1.1 — making your integratio
 > pip install lxml
 
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
+
+#### How to run the script
+
+##### 1. Fork the repository
+##### 2. Change over to the forked repository
+##### 3. Run 
+> python vtu_results.py
