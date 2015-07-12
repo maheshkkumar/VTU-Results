@@ -1,9 +1,9 @@
 #!/usr/bin/python   
 # -*- coding: utf-8 -*-
-######################################  
-# Created by Mahesh Kumar K          #
-# Python Script to fetch VTU Result  #
-######################################
+#######################################  
+# Created by Mahesh Kumar K           #
+# Python Script to fetch VTU Results  #
+#######################################
 
 import requests
 from lxml import html
