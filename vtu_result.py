@@ -10,6 +10,7 @@ from lxml import html
 
 base_url = 'http://results.vtu.ac.in/vitavi.php?rid='
 usn = []
+
 def rolno():
     choice = input("Press 1 for single result and 2 for multiple results : ")
     if choice==1:
