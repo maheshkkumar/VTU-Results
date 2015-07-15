@@ -1,4 +1,4 @@
-## VTU-Results
+## vtu_results
 Python script to fetch VTU results
 
 ####Python Libraries
