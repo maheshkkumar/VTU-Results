@@ -18,7 +18,7 @@ Installation
     $ pip install VTUResults
       If this doesn't work, try switching to root by doing $ sudo pip install VTUresults
       
-     (for python 2.6 and above) Sometimes if pip gives any problem (Example : ImportError: cannot import name           IncompleteRead) try installion using the python setuptools (check https://pypi.python.org/pypi/setuptools for      details about setuptools) as
+     (for python 2.6 and above) Sometimes if pip gives any problem (Example : ImportError: cannot import name IncompleteRead) try installion using the python setuptools (check https://pypi.python.org/pypi/setuptools for details about setuptools) as
     $ sudo easy_install VTUResults
 
 Usage
@@ -63,7 +63,7 @@ Python Dependencies
     $ pip install requests
      If this doesn't work, try switching to root by doing $ sudo pip install VTUresults
       
-     (for python 2.6 and above) Sometimes if pip gives any problem (Example : ImportError: cannot import name           IncompleteRead) try installion using the python setuptools (check https://pypi.python.org/pypi/setuptools for      details about setuptools) as
+     (for python 2.6 and above) Sometimes if pip gives any problem (Example : ImportError: cannot import name IncompleteRead) try installion using the python setuptools (check https://pypi.python.org/pypi/setuptools for details about setuptools) as
     $ sudo easy_install requests
     
 Requests is a Python HTTP library, released under the Apache2 License. The goal of the project is to make HTTP requests simpler and more human-friendly.
@@ -75,7 +75,7 @@ Requests takes all of the work out of Python HTTP/1.1 — making your integratio
     $ pip install lxml
      If this doesn't work, try switching to root by doing $ sudo pip install VTUresults
       
-     (for python 2.6 and above) Sometimes if pip gives any problem (Example : ImportError: cannot import name           IncompleteRead) try installion using the python setuptools (check https://pypi.python.org/pypi/setuptools for      details about setuptools) as
+     (for python 2.6 and above) Sometimes if pip gives any problem (Example : ImportError: cannot import name IncompleteRead) try installion using the python setuptools (check https://pypi.python.org/pypi/setuptools for details about setuptools) as
     $ sudo easy_install lxml
 
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
