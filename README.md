@@ -27,7 +27,7 @@ Usage
     # print the result the of the USN sent as parameter
     result.get_usn('1XX12XX100')
     
-API Reference
+Package Reference
 ========
 
 ## Class: `VR`
