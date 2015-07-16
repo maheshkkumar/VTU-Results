@@ -11,7 +11,7 @@ setup(
     install_requires=['requests>=2.7.0', 'lxml>=3.3.6'],
     author='Mahesh Kumar',
     author_email='maheshk2194@gmail.com',
-    #packages=['VTUResults'],
+    packages=['vr'],
     #test_suite='tests',
     url='https://github.com/maheshkkumar/VTUResults/',
     license='GNU GENERAL PUBLIC LICENSE',
