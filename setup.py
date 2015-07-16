@@ -20,7 +20,7 @@ setup(
                      'https://github.com/maheshkkumar/VTUResults.',
     classifiers=[
         'Development Status :: 4 - Beta',
-        'License :: OSI Approved :: GNU General Public License (GPL)'
+        'License :: OSI Approved :: GNU General Public License (GPL)',
         'Operating System :: POSIX',
         'Intended Audience :: Developers',
         'Natural Language :: English',
