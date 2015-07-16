@@ -12,6 +12,11 @@ Features
 - Compatible with Python 2 (2.7+).
 - Get Result details for any USN
 
+Installation
+========
+
+    $ pip install VTUResults
+
 ####Python Libraries
 ##### [Requests](http://docs.python-requests.org/en/latest/)
 
