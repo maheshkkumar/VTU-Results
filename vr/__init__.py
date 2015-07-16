@@ -8,7 +8,7 @@ Python Package for fetching VTU Results
 
 '''
 
-__title__ = 'vturesults'
+__title__ = 'VTUResults'
 __author__ = 'Mahesh Kumar K'
 __license__ = 'GNU General Public License'
 

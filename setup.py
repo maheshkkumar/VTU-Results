@@ -3,21 +3,21 @@ try:
 except ImportError:
     from distutils.core import setup
 
-version = '1.0.2'
+version = '1.0.3'
 
 setup(
     name='VTUResults',
     version=version,
-    install_requires=['requests>=2.7.0', 'lxml>=3.3.6'],
+    install_requires=['requests==2.0.1', 'BeautifulSoup4>=4.3.1'],
     author='Mahesh Kumar',
     author_email='maheshk2194@gmail.com',
     packages=['vr'],
     #test_suite='tests',
     url='https://github.com/maheshkkumar/VTUResults/',
-    license='GNU GENERAL PUBLIC LICENSE',
-    description='Python Package for VTU Results.',
-    long_description='Python Package for fetching Visvesvaraya Technological University Results. Usage: '
-                     'https://github.com/maheshkkumar/VTUResults.',
+    license='GNU General Public License (GPL)',
+    description='Python Package for accessing VTU Results.',
+    long_description='Python Package for accessing Visvesvaraya Technological University Results.'
+                     ' Usage : https://github.com/maheshkkumar/VTUResults.',
     classifiers=[
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: GNU General Public License (GPL)',

@@ -62,9 +62,9 @@ Requests is a Python HTTP library, released under the Apache2 License. The goal 
 
 Requests takes all of the work out of Python HTTP/1.1 — making your integration with web services seamless. There’s no need to manually add query strings to your URLs, or to form-encode your POST data. Keep-alive and HTTP connection pooling are 100% automatic, powered by urllib3, which is embedded within Requests
 
-##### [lxml](http://docs.python-guide.org/en/latest/scenarios/scrape/)
+##### [beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/)
 
-    $ pip install lxml
+    $ pip install beautifulsoup4
 
-lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
+Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
 

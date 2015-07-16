@@ -1,7 +1,7 @@
 #!/usr/bin/env python   
 
 import requests
-from lxml import html
+from bs4 import BeautifulSoup
 
 from constants import BASE_URL
 
@@ -11,7 +11,7 @@ def get_result(usn):
     """
     payload = {'rid':usn, 'submit':'SUBMIT'} 
     response = requests.get(BASE_URL, params=payload).text
-    return html.fromstring(response)
+    return BeautifulSoup(response, 'html.parser')
 
 def get_reval_result(usn):
     """
