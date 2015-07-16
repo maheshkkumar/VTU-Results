@@ -32,9 +32,9 @@ Package Reference
 
 ## Class: `VR`
 
-### Get Result from VTU Results
+### Get Result from VTUResults
 
-#### `get_usn`
+#### `get_usn(usn)`
 
 **Parameters:**
 
