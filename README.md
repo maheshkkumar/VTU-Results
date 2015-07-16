@@ -40,11 +40,16 @@ API Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function |
+| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function |-|
 
+**Example:**
 
+	from vr import VR
+	result = VR()
+	result.get_usn('1XX12XX010')
 
-####Python Libraries
+## Python Dependencies
+====
 ##### [Requests](http://docs.python-requests.org/en/latest/)
 
 > pip install requests
