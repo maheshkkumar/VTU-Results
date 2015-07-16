@@ -1,4 +1,4 @@
-## vtu_results
+## VTUResults
 Python script to fetch VTU results
 
 | Build Status | Version | Downloads |
