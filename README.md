@@ -3,7 +3,7 @@ Python script to fetch VTU results
 
 | Build Status | Version | Downloads |
 | ------------ | ------------- | ------- | ------------------- |
-| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [v.1.0.1](https://pypi.python.org/pypi/VTUResults/1.0.1) | |
+| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [v.1.0.1](https://pypi.python.org/pypi/VTUResults/1.0.1) |[Downloads](https://pypi.python.org/pypi/VTUResults/1.0.1) |
 
 
 
