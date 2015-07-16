@@ -45,7 +45,7 @@ API Reference
 
 
 Python Dependencies
-
+========
 ##### [Requests](http://docs.python-requests.org/en/latest/)
 
 > pip install requests
