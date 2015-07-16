@@ -40,7 +40,7 @@ API Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function |
+| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function | - |
 
 Example
 ========
