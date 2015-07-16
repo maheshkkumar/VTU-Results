@@ -42,6 +42,14 @@ API Reference
 | ---- | ---- | -------- | ----------- | ------- |
 | `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function |
 
+Example
+========
+
+    from vr import VR
+    result =  VR()
+    result.get_usn('1XX12XX100')
+ 
+
 
 
 Python Dependencies
