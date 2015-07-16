@@ -1,11 +1,10 @@
-#!/usr/bin/env python   
-# -*- coding: utf-8 -*-
-#######################################  
-# Created by Mahesh Kumar K           #
-# Python Script to fetch VTU Results  #
-#######################################
-import requests
-from lxml import html
+#!/usr/bin/env python
+
+"""
+VTU Results Python Package
+@author Mahesh Kumar K
+@email maheshk2194@gmail.com
+"""
 
 from constants import BASE_URL
 from utils import get_result
@@ -14,7 +13,7 @@ class VR(object):
   def __init__(self):
     pass
 
-  def get_url(self, usn):
+  def get_usn(self, usn):
     self.usn = usn
     if len(usn) == 10:
       html = get_result(usn)
@@ -26,7 +25,7 @@ class VR(object):
       student_name = student_details[0]
       semester = int(student_details[2])
       result = student_details[3].encode('ascii','ignore')
-
+      print "******************************************************************"
       print "Name : "+student_name
       print "Semester: ",semester
       print "Marks format is : Subject Name / Internal / External / Total"
@@ -44,10 +43,12 @@ class VR(object):
           else:
               print "Average = ",round(float(total_marks * 100)/900, 2)
           print "Result = "+result[8:]
-          print "complete results obtained"
+          print "complete result obtained"
+          print "******************************************************************"
 
     else:
       return "Invalid USN"
+      print "******************************************************************"
 
 
 
