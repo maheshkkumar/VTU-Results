@@ -1,4 +1,4 @@
-## VTUResults
+# VTUResults
 Python Package to fetch VTU Results.
 
 | Build Status | Version | Downloads |
@@ -6,18 +6,18 @@ Python Package to fetch VTU Results.
 | [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [v.1.0.1](https://pypi.python.org/pypi/VTUResults/1.0.1) |[Downloads](https://pypi.python.org/pypi/VTUResults/1.0.1) |
 
 
-## Features
+Features
 ========
 
 - Compatible with Python 2 (2.7+).
 - Get Result details for any USN
 
-## Installation
+Installation
 ========
 
     $ pip install VTUResults
 
-## Usage
+Usage
 ========
 
     from vr import VR
@@ -27,12 +27,12 @@ Python Package to fetch VTU Results.
     # print the result the of the USN sent as parameter
     result.get_usn('1XX12XX100')
     
-## API Reference
+API Reference
 ========
 
-### Class: `VR`
+## Class: `VR`
 
-#### Get Result from VTU Results
+### Get Result from VTU Results
 
 #### `get_usn`
 
@@ -44,7 +44,7 @@ Python Package to fetch VTU Results.
 
 
 
-#### Python Dependencies
+Python Dependencies
 
 ##### [Requests](http://docs.python-requests.org/en/latest/)
 
