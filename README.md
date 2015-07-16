@@ -24,7 +24,7 @@ Usage
 
     result =  VR()
 
-    # print the result the of the USN sent as parameter
+    # print the result of the USN sent as parameter to get_usn method.
     result.get_usn('1XX12XX100')
     
 Package Reference
