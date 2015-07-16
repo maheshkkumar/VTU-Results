@@ -1,6 +1,12 @@
 ## vtu_results
 Python script to fetch VTU results
 
+| Build Status | Test Coverage | Version | Downloads |
+| ------------ | ------------- | ------- | ------------------- |
+| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [![Coverage Status] | [![Latest Version]| [![Downloads]|
+
+
+
 ####Python Libraries
 ##### [Requests](http://docs.python-requests.org/en/latest/)
 
