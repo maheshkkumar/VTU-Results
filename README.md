@@ -54,7 +54,7 @@ Example
 
 Python Dependencies
 ========
-##### [Requests](http://docs.python-requests.org/en/latest/)
+##### [requests](http://docs.python-requests.org/en/latest/)
 
 > pip install requests
 
