@@ -1,3 +1,6 @@
+## v1.0.4
+- Fix: Versioning on PyPi
+
 ## v1.0.3
 - Fix: Changed from lxml to BeautifulSoup4
 
