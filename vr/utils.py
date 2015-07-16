@@ -12,3 +12,11 @@ def get_result(usn):
     payload = {'rid':usn, 'submit':'SUBMIT'} 
     response = requests.get(BASE_URL, params=payload).text
     return html.fromstring(response)
+
+def get_reval_result(usn):
+    """
+    Returns a html object for the requested usn
+    """
+    payload = {'rid':usn, 'submit':'SUBMIT'} 
+    response = requests.get(REVAL_URL, params=payload).text
+    return html.fromstring(response)
