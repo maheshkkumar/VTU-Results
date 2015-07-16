@@ -1,4 +1,4 @@
-## v1.1.0
+## v1.0.3
 - Fix: Changed from lxml to BeautifulSoup4
 
 ## v1.0.2
