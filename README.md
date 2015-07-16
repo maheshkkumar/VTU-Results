@@ -40,16 +40,12 @@ API Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function |-|
+| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function |
 
-**Example:**
 
-	from vr import VR
-	result = VR()
-	result.get_usn('1XX12XX010')
 
-## Python Dependencies
-====
+#### Python Libraries
+
 ##### [Requests](http://docs.python-requests.org/en/latest/)
 
 > pip install requests
@@ -64,9 +60,3 @@ Requests takes all of the work out of Python HTTP/1.1 — making your integratio
 
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 
-#### Steps to be followed to run the script - 
-
-###### 1. Fork the repository
-###### 2. Change over to the forked repository
-###### 3. Run the python script 
-> $ python vtu_results.py
