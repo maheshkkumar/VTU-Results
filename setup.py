@@ -6,18 +6,18 @@ except ImportError:
 version = '1.0.0'
 
 setup(
-    name='vtu_results',
+    name='VTUResults',
     version=version,
     install_requires=['requests>=2.7.0', 'lxml>=3.3.6'],
     author='Mahesh Kumar',
     author_email='maheshk2194@gmail.com',
-    #packages=['vtu_results', 'tests'],
+    packages=['VTUResults'],
     #test_suite='tests',
-    url='https://github.com/maheshkkumar/vtu_results/',
+    url='https://github.com/maheshkkumar/VTUResults/',
     license='GNU GENERAL PUBLIC LICENSE',
     description='Python Package for VTU Results.',
     long_description='Python Package for fetching Visvesvaraya Technological University Results. Usage: '
-                     'https://github.com/maheshkkumar/vtu_results.',
+                     'https://github.com/maheshkkumar/VTUResults.',
     classifiers=[
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: GNU General Public License (GPL)'
