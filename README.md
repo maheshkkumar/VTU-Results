@@ -17,6 +17,16 @@ Installation
 
     $ pip install VTUResults
 
+Usage
+========
+
+    from vr import VR
+
+    result =  VR()
+
+    # print the result the of the USN sent as parameter
+    result.get_usn('1XX12XX100')
+    
 ####Python Libraries
 ##### [Requests](http://docs.python-requests.org/en/latest/)
 
