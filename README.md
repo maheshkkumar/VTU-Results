@@ -56,7 +56,7 @@ Python Dependencies
 ========
 ##### [requests](http://docs.python-requests.org/en/latest/)
 
-> pip install requests
+    $ pip install requests
 
 Requests is a Python HTTP library, released under the Apache2 License. The goal of the project is to make HTTP requests simpler and more human-friendly.
 
@@ -64,7 +64,7 @@ Requests takes all of the work out of Python HTTP/1.1 — making your integratio
 
 ##### [lxml](http://docs.python-guide.org/en/latest/scenarios/scrape/)
 
-> pip install lxml
+    $ pip install lxml
 
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 
