@@ -1,5 +1,5 @@
-## VTUResults
-Python script to fetch VTU results
+ VTUResults
+Python Package to fetch VTU Results.
 
 | Build Status | Version | Downloads |
 | ------------ | ------------- | ------- | ------------------- |
