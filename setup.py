@@ -3,7 +3,7 @@ try:
 except ImportError:
     from distutils.core import setup
 
-version = '1.0.7'
+version = '1.1.0'
 
 setup(
     name='VTUResults',

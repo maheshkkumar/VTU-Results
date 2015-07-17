@@ -1,4 +1,4 @@
-## v1.0.6
+## v1.1.0
 - Fix: Improved Exception Handling
 
 ## v1.0.6
