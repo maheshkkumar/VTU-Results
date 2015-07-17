@@ -1,5 +1,5 @@
 # VTUResults
-Python Package to fetch VTU Results.
+Python Package to fetch [VTU](http://results.vtu.ac.in) Results.
 
 | Build Status | Dependency Status | Version | Downloads |
 | ------------ | ------------- | ------- | ------------------- |
