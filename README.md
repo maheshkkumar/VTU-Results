@@ -1,10 +1,11 @@
 # VTUResults
 Python Package to fetch VTU Results.
 
-| Build Status | Version | Downloads |
+| Build Status | Dependency Status | Version | Downloads |
 | ------------ | ------------- | ------- | ------------------- |
-| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [v1.0.5](https://pypi.python.org/pypi/VTUResults/1.0.5) |[Downloads](https://pypi.python.org/pypi/VTUResults/1.0.5) |
-| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [v1.0.4](https://pypi.python.org/pypi/VTUResults/1.0.4) |[Downloads](https://pypi.python.org/pypi/VTUResults/1.0.4) |
+| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [![Dependency Status](https://gemnasium.com/maheshkkumar/VTUResults.svg)](https://gemnasium.com/maheshkkumar/VTUResults)
+ | [v1.0.5](https://pypi.python.org/pypi/VTUResults/1.0.5) |[Downloads](https://pypi.python.org/pypi/VTUResults/1.0.5) |
+
 
 
 Features
