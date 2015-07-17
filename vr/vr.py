@@ -66,22 +66,28 @@ class VR(object):
             print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
         
         print "\n"    
-        total_marks = int(marks_variables[97])
-        sem = int(s_data[4])
-        print "Total Marks : ", total_marks
-        
-        if sem == 8:
-          print "Average : ",round(float(total_marks * 100)/750, 2)
-        elif sem == 1 or sem == 2:
-          print "Average : ",round(float(total_marks * 100)/775, 2)
-        else:
-          print "Average : ",round(float(total_marks * 100)/900, 2)
+        try:
+          total_marks = int(marks_variables[97])
+          sem = int(s_data[4])
+          print "Total Marks : ", total_marks
+          
+          if sem == 8:
+            print "Average : ",round(float(total_marks * 100)/750, 2)
+          elif sem == 1 or sem == 2:
+            print "Average : ",round(float(total_marks * 100)/775, 2)
+          else:
+            print "Average : ",round(float(total_marks * 100)/900, 2)
 
-        res =  s_data[5].split()[1:] 
-        print 'Result : '+' '.join(res)
-        print "Congratulations!"
-        print "Bye "+s_data[2]+", see you later!"
-        print "*******************************************************************************************************"
+          res =  s_data[5].split()[1:] 
+          print 'Result : '+' '.join(res)
+          print "Congratulations!"
+          print "Bye "+s_data[2]+", see you later!"
+          print "*******************************************************************************************************"
+
+        except ValueError as e:
+          print "Some Error Occured"
+
+        
   
     else:
       print "Invalid USN"
