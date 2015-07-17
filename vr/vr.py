@@ -57,6 +57,7 @@ class VR(object):
         for i in variables:
             marks_variables.append(i.text)
         print "*******************************************************************************************************"    
+        print "ta-da!\n"    
         print "Name : "+s_data[2]
         print s_data[3] + " "+ s_data[4]+"\n"
 
@@ -78,6 +79,8 @@ class VR(object):
 
         res =  s_data[5].split()[1:] 
         print 'Result : '+' '.join(res)
+        print "Congratulations!"
+        print "Bye "+s_data[2]+", see you later!"
         print "*******************************************************************************************************"
   
     else:

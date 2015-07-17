@@ -10,13 +10,14 @@ def get_result(usn):
     Returns a html object for the requested usn
     """
     payload = {'rid':usn, 'submit':'SUBMIT'} 
-    response = requests.get(BASE_URL, params=payload).text
-    return BeautifulSoup(response, 'html.parser')
-
-def get_reval_result(usn):
-    """
-    Returns a html object for the requested usn
-    """
-    payload = {'rid':usn, 'submit':'SUBMIT'} 
-    response = requests.get(REVAL_URL, params=payload).text
-    return html.fromstring(response)
+    print "Hey, there!"
+    print "Hold on!, till I get your result.."
+    try:
+    	response = requests.get(BASE_URL, params=payload).text
+    	return BeautifulSoup(response, 'html.parser')
+    except requests.exceptions.Timeout as e:
+    	print "Sorry, Time Out : ", e 
+    except requests.exceptions.TooManyRedirects as e:
+    	print "Sorry, Too Many Redirects : ", e
+    except requests.exceptions.RequestException as e:
+    	print "Sorry, Catastrophic Error : ",e	
