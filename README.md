@@ -1,4 +1,4 @@
-![VTU Results](https://raw.github.com/maheshkkumar/VTUResults/master/vtu.jpg)
+>           ![VTU Results](https://raw.github.com/maheshkkumar/VTUResults/master/vtu.jpg)
 
 # VTUResults
 Python Package to fetch [VTU](http://results.vtu.ac.in) Results.
