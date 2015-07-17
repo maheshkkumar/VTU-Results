@@ -3,12 +3,12 @@ try:
 except ImportError:
     from distutils.core import setup
 
-version = '1.0.4'
+version = '1.0.5'
 
 setup(
     name='VTUResults',
     version=version,
-    install_requires=['requests==2.0.1', 'BeautifulSoup4>=4.3.1'],
+    install_requires=['requests>=2.6.0', 'BeautifulSoup4>=4.3.1'],
     author='Mahesh Kumar',
     author_email='maheshk2194@gmail.com',
     packages=['vr'],
