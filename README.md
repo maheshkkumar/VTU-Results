@@ -29,6 +29,8 @@ Usage
 
     # print the result of the USN sent as parameter to get_usn method.
     result.get_usn('1XX12XX100')
+    result.get_group_usn()
+    result.get_entire_result()
     
 Package Reference
 ========
@@ -45,13 +47,32 @@ Package Reference
 | ---- | ---- | -------- | ----------- | ------- |
 | `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function | ------|
 
+#### `get_group_usn()`
+
+**Parameters:**
+
+| Name | Type | Required | Description | Default |
+| ---- | ---- | -------- | ----------- | ------- |
+| `None` |  |  | Returns the Result of the total number of USN entered through terminal.| ---------|
+
+#### `get_entire_result()`
+
+**Parameters:**
+
+| Name | Type | Required | Description | Default |
+| ---- | ---- | -------- | ----------- | ------- |
+| `None` |  |  | Returns the Result of the entire department.| ---------|
+
+
+
 Example
 ========
 
     from vr import VR
     result =  VR()
     result.get_usn('1XX12XX100')
- 
+    result.get_group_usn()
+    result.get_entire_result()
 
 
 
