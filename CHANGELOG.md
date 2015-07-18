@@ -1,3 +1,6 @@
+## v1.2.0
+- Fix: Added New Methods
+
 ## v1.1.0
 - Fix: Improved Exception Handling
 
