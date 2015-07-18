@@ -45,7 +45,7 @@ Package Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function | ------|
+| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function | None |
 
 #### `get_group_usn()`
 
@@ -53,7 +53,7 @@ Package Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `None` |  |  | Returns the Result of the total number of USN entered through terminal.| ---------|
+| `None` |  |  | Returns the Result of the total number of USN entered through terminal.| None |
 
 #### `get_entire_result()`
 
@@ -61,7 +61,7 @@ Package Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `None` |  |  | Returns the Result of the entire department.| ---------|
+| `None` | None  | None  | Returns the Result of the entire department.| None |
 
 
 
