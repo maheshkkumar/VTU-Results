@@ -45,7 +45,7 @@ Package Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function | None |
+| `usn` | string | Yes | Returns the Result of the USN, passed as the parameter to get_usn function | `None` |
 
 #### `get_group_usn()`
 
