@@ -53,7 +53,7 @@ Package Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `None` |  |  | Returns the Result of the total number of USN entered through terminal.| None |
+| `None` | `None`  |  `No` | Returns the Result of the total number of USN entered through terminal| `None` |
 
 #### `get_entire_result()`
 
@@ -61,7 +61,7 @@ Package Reference
 
 | Name | Type | Required | Description | Default |
 | ---- | ---- | -------- | ----------- | ------- |
-| `None` | None  | None  | Returns the Result of the entire department.| None |
+| `None` | `None`  | `No`  | Returns the Result of the entire department| `None` |
 
 
 
