@@ -8,6 +8,10 @@ VTU Results Python Package
 
 from constants import BASE_URL
 from utils import get_result
+from collections import OrderedDict
+import json
+from operator import itemgetter
+
 
 class VR(object):
 
@@ -207,13 +211,23 @@ class VR(object):
   # For every result that is fetched, it will be written to 'result.txt' 
   def get_entire_result(self):
     text_file = open('result_class.txt', 'w')
+    rank_file = open('rank_list.txt', 'w')
+    final_names = []
+    final_marks = []
+    flag = 0
+    print "------------------------------------------------------------------"
     print "Enter the USN format data as shown below "
-    print " (initial_code)(college_code)(your year)(branch_code)(total_strength)"
+    print "USN Format - 1XX11XX010"
+    print "1 - Initial Code \nXX - College Code \n11 - Year Code \nXX Branch Code \n010 - Roll No\n"
+    print "---------------- +-----------------+--------------+---------------+----------------"
+    print "| (initial_code) |  (college_code) |  (year_code) | (branch_code) | (roll_number) |"
+    print "-----------------+-----------------+--------------+---------------+----------------"
     initial_code = raw_input("Enter the first Character in your USN : ")
     college_code = raw_input("Enter your college code in the USN : ")
     year_code = raw_input("Enter your year code in the USN : ")
     branch_code = raw_input("Enter your branch code in the USN : ")
     total_strength = input("Enter the total strength of your  class or department : ")
+    print "\n"
     for i in range(total_strength):
       usn = initial_code+college_code+year_code+branch_code+str('%03d' %i)
       subjects = []
@@ -273,6 +287,8 @@ class VR(object):
           try:
             total_marks = int(marks_variables[97])
             sem = int(s_data[4])
+            final_names.append(s_data[2])
+            final_marks.append(total_marks)
             print "Total Marks : ", total_marks
             #text.append("Total Marks : "+marks_variables[97])
             
@@ -294,6 +310,10 @@ class VR(object):
             print "Bye "+s_data[2]+", see you later!"
             for i in text:
               text_file.write(i+'\n')
+            print "Total Marks List Length",len(final_marks)
+            print "Total Names List Length",len(final_names)
+            #print final_marks
+            #print final_names
             text_file.write('---------------------\n\n')
             print "---------------------------------------------------------------------------------------------------"
 
@@ -303,3 +323,10 @@ class VR(object):
       else:
         print "Invalid USN"
         print "---------------------------------------------------------------------------------------------------"
+    print "The End!"
+    final_result = zip(final_names, final_marks)
+    rank_list = sorted(final_result, key=lambda(x,y):(-y,x))
+    topper, topper_marks = map(list, zip(*rank_list)) 
+    for x,y in zip(topper, topper_marks):
+      flag += 1
+      rank_file.write(str(flag)+'. '+'{0:45s}'.format(x)+str(y)+'\n')
