@@ -14,8 +14,10 @@ Python Package to fetch [VTU](http://results.vtu.ac.in) Results.
 Features
 ========
 
-- Compatible with Python 2 (2.7+).
+- Compatible with Python 2 (2.7+)
 - Get Result details for any USN
+- All the results will be exported to a .txt file in the current working directory
+- In `get_entire_result` method a rank_file.txt will be created, which will contain the rank list of all the students.
 
 Installation
 ========
@@ -34,7 +36,8 @@ Usage
     result.get_group_usn()
     result.get_entire_result()
     
-    Every Result, will be exported to a text file in your current working directory.
+    Every result will be exported to a text file in your current working directory.
+    
     
 Package Reference
 ========
@@ -77,6 +80,8 @@ Example
     result.get_usn('1XX12XX100')
     result.get_group_usn()
     result.get_entire_result()
+    
+    # get_entire_result method will create a rank_file.txt in your current working directory, this file contains the rank list of all the students with their respective total marks.
 
 
 
