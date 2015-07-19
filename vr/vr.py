@@ -306,8 +306,8 @@ class VR(object):
             print "Bye "+s_data[2]+", see you later!"
             for i in text:
               text_file.write(i+'\n')
-            print "Total Marks List Length",len(final_marks)
-            print "Total Names List Length",len(final_names)
+            #print "Total Marks List Length",len(final_marks)
+            #print "Total Names List Length",len(final_names)
             #print final_marks
             #print final_names
             text_file.write('---------------------\n\n')

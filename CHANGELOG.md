@@ -1,3 +1,6 @@
+## v1.3.0
+- Fix: Added Rank List to get_entire_result method
+
 ## v1.2.0
 - Fix: Added New Methods
 
