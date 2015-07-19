@@ -8,10 +8,6 @@ VTU Results Python Package
 
 from constants import BASE_URL
 from utils import get_result
-from collections import OrderedDict
-import json
-from operator import itemgetter
-
 
 class VR(object):
 
