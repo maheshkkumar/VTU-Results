@@ -32,6 +32,8 @@ Usage
     result.get_group_usn()
     result.get_entire_result()
     
+    Every Result, will be exported to a text file.
+    
 Package Reference
 ========
 
