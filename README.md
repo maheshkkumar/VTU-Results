@@ -3,22 +3,28 @@
 # VTUResults
 Python Package to fetch [VTU](http://results.vtu.ac.in) Results.
 
-| Build Status | Dependency Status | Version | Downloads |
-| ------------ | ------------- | ------- | ------------------- |
-| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [![Dependency Status](https://gemnasium.com/maheshkkumar/VTUResults.svg)](https://gemnasium.com/maheshkkumar/VTUResults) | [v1.3.0](https://pypi.python.org/pypi/VTUResults/1.3.0) | [Downloads](https://pypi.python.org/pypi/VTUResults/) |
+| Build Status | Dependency Status | Version | License | Downloads |
+| ------------ | ------------- | ------- | -------------------|--------------- |
+| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [![Dependency Status](https://gemnasium.com/maheshkkumar/VTUResults.svg)](https://gemnasium.com/maheshkkumar/VTUResults) | [![Foo](https://img.shields.io/badge/version-v1.3.0-blue.svg)](https://pypi.python.org/pypi/VTUResults/1.3.0) | [![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/maheshkkumar/VTUResults/master/LICENSE) |[![Foo](https://img.shields.io/badge/downloads-2k%2Fmonth-brightgreen.svg)](https://pypi.python.org/pypi/VTUResults/1.3.0) |
+
+
 
 
 
 Features
 ========
 
-- Compatible with Python 2 (2.7+).
+- Compatible with Python 2 (2.7+)
 - Get Result details for any USN
+- All the results will be exported to a .txt file in the current working directory
+- In `get_entire_result` method, `rank_list.txt` and `result_class.txt` will be created, the former file will contain the rank list of all the students and the latter file will contain the entire result data of all the students.
+- In `get_group_usn` method, `results.txt` will be created in the current working directory, this file will contain all the result data of your chosen USN.
+- In `get_usn` method, `result.txt` will be created and it will contain the result of a single USN.
 
 Installation
 ========
 
-    $ pip install VTUResults
+    $ sudo pip install VTUResults
 
 Usage
 ========
@@ -32,7 +38,8 @@ Usage
     result.get_group_usn()
     result.get_entire_result()
     
-    Every Result, will be exported to a text file in your current working directory.
+    Every result will be exported to a text file in your current working directory.
+    
     
 Package Reference
 ========
@@ -75,6 +82,8 @@ Example
     result.get_usn('1XX12XX100')
     result.get_group_usn()
     result.get_entire_result()
+    
+    # get_entire_result method will create a rank_file.txt in your current working directory, this file contains the rank list of all the students with their respective total marks.
 
 
 
