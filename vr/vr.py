@@ -211,6 +211,7 @@ class VR(object):
     final_names = []
     final_marks = []
     flag = 0
+    final_average = []
     print "------------------------------------------------------------------"
     print "Enter the USN format data as shown below "
     print "USN Format - 1XX11XX010"
@@ -289,14 +290,20 @@ class VR(object):
             #text.append("Total Marks : "+marks_variables[97])
             
             if sem == 8:
-              text.append("Average : "+str(round(float(total_marks * 100)/750, 2)))
-              print "Average : "+str(round(float(total_marks * 100)/750, 2))
+              avg = round(float(total_marks * 100)/750, 2)
+              text.append("Average : "+str(avg))
+              final_average.append(avg)
+              print "Average : "+str(avg)
             elif sem == 1 or sem == 2:
-              text.append("Average : "+str(round(float(total_marks * 100)/775, 2)))
-              print "Average : ",round(float(total_marks * 100)/775, 2)
+              avg = round(float(total_marks * 100)/775, 2)
+              text.append("Average : "+str(avg))
+              final_average.append(avg)
+              print "Average : "+str(avg)
             else:
-              text.append("Average : "+str(round(float(total_marks * 100)/900, 2)))
-              print "Average : ",round(float(total_marks * 100)/900, 2)
+              avg = round(float(total_marks * 100)/900, 2)
+              text.append("Average : "+str(avg))
+              final_average.append(avg)
+              print "Average : "+str(avg)
 
             res =  s_data[5].split()[1:] 
             text.append('Result : '+' '.join(res))
@@ -320,9 +327,10 @@ class VR(object):
         print "Invalid USN"
         print "---------------------------------------------------------------------------------------------------"
     print "The End!"
+    sorted_avg = sorted(final_average, reverse=True)
     final_result = zip(final_names, final_marks)
     rank_list = sorted(final_result, key=lambda(x,y):(-y,x))
     topper, topper_marks = map(list, zip(*rank_list)) 
-    for x,y in zip(topper, topper_marks):
+    for x,y,z in zip(topper, topper_marks, sorted_avg):
       flag += 1
-      rank_file.write(str(flag)+'. '+'{0:45s}'.format(x)+str(y)+'\n')
+      rank_file.write(str('%03d' %flag)+'. '+'{0:50s}'.format(x)+str(y)+'\t'+str(round(z, 2))+'\n')
