@@ -1,3 +1,6 @@
+## v1.4.0
+- Fix: Versioning the package
+
 ## v1.3.0
 - Fix: Added Rank List to get_entire_result method
 
