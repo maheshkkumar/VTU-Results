@@ -8,6 +8,7 @@ VTU Results Python Package
 
 from constants import BASE_URL
 from utils import get_result
+import sys
 
 class VR(object):
 
@@ -226,6 +227,13 @@ class VR(object):
     total_strength = input("Enter the total strength of your  class or department : ")
     print "\n"
     for i in range(total_strength):
+      bar_length = 60
+      percent = float(i) / total_strength
+      hashes = '=' * int(round(percent * bar_length))
+      spaces = ' ' * (bar_length - len(hashes))
+      sys.stdout.write("\rCrunching Data: [{0}] {1}%".format(hashes + spaces, int(round(percent * 100))))
+      sys.stdout.flush()
+      
       usn = initial_code+college_code+year_code+branch_code+str('%03d' %i)
       subjects = []
       s_data = []
@@ -237,16 +245,17 @@ class VR(object):
       self.usn = usn
       if len(usn) == 10:
         # function to fetch the html format of the request usn's result
-        soup = get_result(usn)
+        soup = get_entire_result(usn)
         validness = soup.find_all('td', {'width': '513'})
         for i in validness:
           valid.append(i.text)
         valid = valid[0].split()
         
-        if 'not' in valid:
-          print "Invalid USN"
-          print "---------------------------------------------------------------------------------------------------"  
-        else:
+        #if 'not' in valid:
+          #print "\nInvalid USN " 
+          #print "---------------------------------------------------------------------------------------------------"  
+        #else:
+        if 'not' not in valid:
           # finding all the subjects
           subject = soup.find_all('i')
           for i in subject:
@@ -268,49 +277,49 @@ class VR(object):
           variables = soup.find_all('td')
           for i in variables:
               marks_variables.append(i.text)
-          print "---------------------------------------------------------------------------------------------------"    
-          print "ta-da!\n"    
-          print "Name : "+s_data[2]
+          #print "---------------------------------------------------------------------------------------------------"    
+          #print "ta-da!\n"    
+          #print "Name : "+s_data[2]
           text.append("Name : "+s_data[2])
-          print s_data[3] + " "+ s_data[4]+"\n"
+          #print s_data[3] + " "+ s_data[4]+"\n"
           text.append(s_data[3] + " "+ s_data[4])
-          print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
+          #print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
           text.append("{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
           for i,j,k,l,m in zip(subjects, external, internal, total, status):
               text.append('{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
-              print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
+              #print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
           
-          print "\n"    
+          #print "\n"    
           try:
             total_marks = int(marks_variables[97])
             sem = int(s_data[4])
             final_names.append(s_data[2])
             final_marks.append(total_marks)
-            print "Total Marks : ", total_marks
+            #print "Total Marks : ", total_marks
             #text.append("Total Marks : "+marks_variables[97])
             
             if sem == 8:
               avg = round(float(total_marks * 100)/750, 2)
               text.append("Average : "+str(avg))
               final_average.append(avg)
-              print "Average : "+str(avg)
+              #print "Average : "+str(avg)
             elif sem == 1 or sem == 2:
               avg = round(float(total_marks * 100)/775, 2)
               text.append("Average : "+str(avg))
               final_average.append(avg)
-              print "Average : "+str(avg)
+              #print "Average : "+str(avg)
             else:
               avg = round(float(total_marks * 100)/900, 2)
               text.append("Average : "+str(avg))
               final_average.append(avg)
-              print "Average : "+str(avg)
+              #print "Average : "+str(avg)
 
             res =  s_data[5].split()[1:] 
             text.append('Result : '+' '.join(res))
-            print 'Result : '+' '.join(res)
+            #print 'Result : '+' '.join(res)
             text.append("Congratulations!")
-            print "Congratulations!"
-            print "Bye "+s_data[2]+", see you later!"
+            #print "Congratulations!"
+            #print "Bye "+s_data[2]+", see you later!"
             for i in text:
               text_file.write(i+'\n')
             #print "Total Marks List Length",len(final_marks)
@@ -318,15 +327,16 @@ class VR(object):
             #print final_marks
             #print final_names
             text_file.write('---------------------\n\n')
-            print "---------------------------------------------------------------------------------------------------"
+            #print "---------------------------------------------------------------------------------------------------"
 
           except ValueError, IndexError:
-            print "Some Error Occured"
+            continue
     
-      else:
-        print "Invalid USN"
-        print "---------------------------------------------------------------------------------------------------"
-    print "Results file has been generated.\nThe End!"
+      #else:
+       # print "\nInvalid USN" 
+        #print "---------------------------------------------------------------------------------------------------"
+    
+    print "\nDetailed Result and Rank List files have been generated.\nThe End!"
     sorted_avg = sorted(final_average, reverse=True)
     final_result = zip(final_names, final_marks)
     rank_list = sorted(final_result, key=lambda(x,y):(-y,x))
@@ -334,3 +344,6 @@ class VR(object):
     for x,y,z in zip(topper, topper_marks, sorted_avg):
       flag += 1
       rank_file.write(str('%03d' %flag)+'. '+'{0:50s}'.format(x)+str(y)+'\t'+str(round(z, 2))+'\n')
+    text_file.close()
+    rank_file.close()
+    
