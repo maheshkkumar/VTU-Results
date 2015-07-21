@@ -1,3 +1,6 @@
+## v1.5.0
+- Fix: Versioning the package
+
 ## v1.4.0
 - Fix: Versioning the package
 

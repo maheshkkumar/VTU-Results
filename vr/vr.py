@@ -326,7 +326,7 @@ class VR(object):
       else:
         print "Invalid USN"
         print "---------------------------------------------------------------------------------------------------"
-    print "The End!"
+    print "Results file has been generated.\nThe End!"
     sorted_avg = sorted(final_average, reverse=True)
     final_result = zip(final_names, final_marks)
     rank_list = sorted(final_result, key=lambda(x,y):(-y,x))

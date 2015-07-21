@@ -1,0 +1,1246 @@
+Name : ABHISHEK RAJ (1ox11is002) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    55         15          70           P            
+System Modeling and Simulation (10CS82)            49         18          67           P            
+Information and Network Security (10IS835)         37         17          54           P            
+Clouds, Grids and Clusters (10IS845)               42         16          58           P            
+Project Work (10IS85)                              97         89          186          P            
+Seminar (10IS86)                                   0          39          39           P            
+Average : 63.2
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : ABIRAL DEV BHATTA (1ox11is003) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    50         15          65           P            
+Ad-hoc Networks (10IS841)                          52         15          67           P            
+System Modeling and Simulation (10CS82)            52         16          68           P            
+Web 2.0 & Rich Internet Applications (10IS832)     53         19          72           P            
+Project Work (10IS85)                              94         89          183          P            
+Seminar (10IS86)                                   0          39          39           P            
+Average : 65.87
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : ABRAR AHMED KHAN (1ox11is004) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    65         21          86           P            
+Ad-hoc Networks (10IS841)                          50         20          70           P            
+System Modeling and Simulation (10CS82)            50         24          74           P            
+Web 2.0 & Rich Internet Applications (10IS832)     51         22          73           P            
+Project Work (10IS85)                              95         98          193          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 71.73
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : AISHWARYA R (1ox11is006) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    68         20          88           P            
+System Modeling and Simulation (10CS82)            78         24          102          P            
+Information and Network Security (10IS835)         50         23          73           P            
+Clouds, Grids and Clusters (10IS845)               56         23          79           P            
+Project Work (10IS85)                              96         98          194          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 77.33
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : AJAY KUMAR M (1ox11is007) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    66         15          81           P            
+Ad-hoc Networks (10IS841)                          55         17          72           P            
+System Modeling and Simulation (10CS82)            40         18          58           P            
+Web 2.0 & Rich Internet Applications (10IS832)     55         20          75           P            
+Project Work (10IS85)                              97         96          193          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 70.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : AKSHATHAKUMARI.S (1ox11is009) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    67         21          88           P            
+System Modeling and Simulation (10CS82)            61         20          81           P            
+Information and Network Security (10IS835)         35         20          55           P            
+Clouds, Grids and Clusters (10IS845)               49         20          69           P            
+Project Work (10IS85)                              95         97          192          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 70.27
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : ALOK L K (1ox11is010) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    64         18          82           P            
+Ad-hoc Networks (10IS841)                          60         18          78           P            
+System Modeling and Simulation (10CS82)            50         16          66           P            
+Web 2.0 & Rich Internet Applications (10IS832)     53         16          69           P            
+Project Work (10IS85)                              85         98          183          P            
+Seminar (10IS86)                                   0          40          40           P            
+Average : 69.07
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : AMALA A (1ox11is012) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    72         21          93           P            
+System Modeling and Simulation (10CS82)            80         20          100          P            
+Web 2.0 & Rich Internet Applications (10IS832)     59         25          84           P            
+Clouds, Grids and Clusters (10IS845)               61         24          85           P            
+Project Work (10IS85)                              98         97          195          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 79.87
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : ANUPA.C.S (1ox11is014) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    54         19          73           P            
+System Modeling and Simulation (10CS82)            58         22          80           P            
+Web 2.0 & Rich Internet Applications (10IS832)     65         23          88           P            
+Clouds, Grids and Clusters (10IS845)               62         25          87           P            
+Project Work (10IS85)                              96         98          194          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 75.47
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : ANUSHA M (1ox11is015) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    68         21          89           P            
+System Modeling and Simulation (10CS82)            74         25          99           P            
+Web 2.0 & Rich Internet Applications (10IS832)     70         25          95           P            
+Clouds, Grids and Clusters (10IS845)               52         25          77           P            
+Project Work (10IS85)                              98         97          195          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 79.87
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : APARNA G K (1ox11is016) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    61         22          83           P            
+System Modeling and Simulation (10CS82)            66         24          90           P            
+Web 2.0 & Rich Internet Applications (10IS832)     52         23          75           P            
+Clouds, Grids and Clusters (10IS845)               48         25          73           P            
+Project Work (10IS85)                              97         97          194          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 74.8
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : ARPITHA.S (1ox11is017) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    63         19          82           P            
+System Modeling and Simulation (10CS82)            58         15          73           P            
+Information and Network Security (10IS835)         41         17          58           P            
+Clouds, Grids and Clusters (10IS845)               45         20          65           P            
+Project Work (10IS85)                              95         97          192          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 68.27
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : ARUNA.V (1ox11is018) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    40         17          57           P            
+System Modeling and Simulation (10CS82)            71         23          94           P            
+Information and Network Security (10IS835)         49         21          70           P            
+Clouds, Grids and Clusters (10IS845)               50         23          73           P            
+Project Work (10IS85)                              92         94          186          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 70.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : ASHISH KUMAR (1ox11is019) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    46         19          65           P            
+System Modeling and Simulation (10CS82)            51         20          71           P            
+Web 2.0 & Rich Internet Applications (10IS832)     54         24          78           P            
+Clouds, Grids and Clusters (10IS845)               41         18          59           P            
+Project Work (10IS85)                              97         96          193          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 68.0
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : AZEEMULLA SHARIFF (1ox11is020) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         17          75           P            
+System Modeling and Simulation (10CS82)            60         18          78           P            
+Information and Network Security (10IS835)         50         15          65           P            
+Clouds, Grids and Clusters (10IS845)               53         15          68           P            
+Project Work (10IS85)                              96         92          188          P            
+Seminar (10IS86)                                   0          43          43           P            
+Average : 68.93
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : BHAVANA.P (1ox11is023) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    53         19          72           P            
+System Modeling and Simulation (10CS82)            71         24          95           P            
+Information and Network Security (10IS835)         52         21          73           P            
+Clouds, Grids and Clusters (10IS845)               49         21          70           P            
+Project Work (10IS85)                              93         95          188          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 72.27
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : C.MALCOLM RICHARD (1ox11is025) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    59         17          76           P            
+Ad-hoc Networks (10IS841)                          60         18          78           P            
+System Modeling and Simulation (10CS82)            59         21          80           P            
+Web 2.0 & Rich Internet Applications (10IS832)     60         19          79           P            
+Project Work (10IS85)                              86         98          184          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 72.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : CHAITHRA.R (1ox11is026) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    50         23          73           P            
+System Modeling and Simulation (10CS82)            65         22          87           P            
+Web 2.0 & Rich Internet Applications (10IS832)     58         25          83           P            
+Clouds, Grids and Clusters (10IS845)               52         24          76           P            
+Project Work (10IS85)                              98         98          196          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 74.8
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : CHAITRA.S (1ox11is027) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    51         21          72           P            
+System Modeling and Simulation (10CS82)            70         23          93           P            
+Web 2.0 & Rich Internet Applications (10IS832)     55         25          80           P            
+Clouds, Grids and Clusters (10IS845)               49         23          72           P            
+Project Work (10IS85)                              97         98          195          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 74.4
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : CHANDU A (1ox11is028) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    56         20          76           P            
+System Modeling and Simulation (10CS82)            72         25          97           P            
+Web 2.0 & Rich Internet Applications (10IS832)     55         23          78           P            
+Clouds, Grids and Clusters (10IS845)               47         23          70           P            
+Project Work (10IS85)                              92         97          189          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 74.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : CHIRANJEEVI G.R (1ox11is029) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    45         19          64           P            
+Ad-hoc Networks (10IS841)                          55         19          74           P            
+System Modeling and Simulation (10CS82)            66         21          87           P            
+Web 2.0 & Rich Internet Applications (10IS832)     50         20          70           P            
+Project Work (10IS85)                              92         97          189          P            
+Seminar (10IS86)                                   0          39          39           P            
+Average : 70.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : DARSHINI P (1ox11is030) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    77         22          99           P            
+System Modeling and Simulation (10CS82)            65         18          83           P            
+Information and Network Security (10IS835)         83         21          104          P            
+Clouds, Grids and Clusters (10IS845)               68         21          89           P            
+Project Work (10IS85)                              97         97          194          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 81.47
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : DEEKSHA.N.L.S (1ox11is031) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         16          74           P            
+System Modeling and Simulation (10CS82)            61         20          81           P            
+Web 2.0 & Rich Internet Applications (10IS832)     47         22          69           P            
+Clouds, Grids and Clusters (10IS845)               56         20          76           P            
+Project Work (10IS85)                              97         98          195          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 72.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : DEEPIKA .P (1ox11is032) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    61         22          83           P            
+System Modeling and Simulation (10CS82)            65         24          89           P            
+Web 2.0 & Rich Internet Applications (10IS832)     57         24          81           P            
+Clouds, Grids and Clusters (10IS845)               58         23          81           P            
+Project Work (10IS85)                              94         97          191          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 76.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : DHARMESH S PATEL (1ox11is033) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    57         21          78           P            
+Ad-hoc Networks (10IS841)                          55         19          74           P            
+System Modeling and Simulation (10CS82)            56         18          74           P            
+Web 2.0 & Rich Internet Applications (10IS832)     41         19          60           P            
+Project Work (10IS85)                              95         96          191          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 70.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : DHARNISH.S (1ox11is034) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    45         21          66           P            
+Ad-hoc Networks (10IS841)                          75         20          95           P            
+System Modeling and Simulation (10CS82)            55         21          76           P            
+Information and Network Security (10IS835)         57         19          76           P            
+Project Work (10IS85)                              91         96          187          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 72.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : HARISH.V.N (1ox11is037) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    41         17          58           P            
+Ad-hoc Networks (10IS841)                          61         18          79           P            
+System Modeling and Simulation (10CS82)            54         17          71           P            
+Web 2.0 & Rich Internet Applications (10IS832)     48         20          68           P            
+Project Work (10IS85)                              97         97          194          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 68.53
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : HARSHA.M.V (1ox11is038) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    51         19          70           P            
+Ad-hoc Networks (10IS841)                          70         22          92           P            
+System Modeling and Simulation (10CS82)            42         18          60           P            
+Information and Network Security (10IS835)         60         21          81           P            
+Project Work (10IS85)                              94         96          190          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 71.73
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : HAVISH L (1ox11is039) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    63         20          83           P            
+Ad-hoc Networks (10IS841)                          74         20          94           P            
+System Modeling and Simulation (10CS82)            65         22          87           P            
+Information and Network Security (10IS835)         67         20          87           P            
+Project Work (10IS85)                              93         97          190          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 78.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : KARTHIK E (1ox11is040) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    52         18          70           P            
+Ad-hoc Networks (10IS841)                          74         18          92           P            
+System Modeling and Simulation (10CS82)            56         21          77           P            
+Web 2.0 & Rich Internet Applications (10IS832)     42         20          62           P            
+Project Work (10IS85)                              85         98          183          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 70.4
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : KARTHIK.B.P. (1ox11is041) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    68         19          87           P            
+Ad-hoc Networks (10IS841)                          64         20          84           P            
+System Modeling and Simulation (10CS82)            54         19          73           P            
+Information and Network Security (10IS835)         37         17          54           P            
+Project Work (10IS85)                              96         97          193          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 71.33
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : KAVUTURU SOBHARAJ (1ox11is042) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    61         20          81           P            
+Ad-hoc Networks (10IS841)                          65         18          83           P            
+System Modeling and Simulation (10CS82)            51         20          71           P            
+Web 2.0 & Rich Internet Applications (10IS832)     48         23          71           P            
+Project Work (10IS85)                              97         97          194          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 72.53
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : KAVYASHREE.A. (1ox11is043) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    48         21          69           P            
+System Modeling and Simulation (10CS82)            48         20          68           P            
+Information and Network Security (10IS835)         35         15          50           P            
+Clouds, Grids and Clusters (10IS845)               60         21          81           P            
+Project Work (10IS85)                              95         97          192          P            
+Seminar (10IS86)                                   0          43          43           P            
+Average : 67.07
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : KHIZER AHMED (1ox11is044) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    67         20          87           P            
+System Modeling and Simulation (10CS82)            52         23          75           P            
+Web 2.0 & Rich Internet Applications (10IS832)     66         24          90           P            
+Clouds, Grids and Clusters (10IS845)               56         22          78           P            
+Project Work (10IS85)                              97         97          194          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 75.87
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : KHUSHBOO KUMARI (1ox11is045) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    28         18          46           F            
+System Modeling and Simulation (10CS82)            51         16          67           P            
+Information and Network Security (10IS835)         35         18          53           P            
+Clouds, Grids and Clusters (10IS845)               58         20          78           P            
+Project Work (10IS85)                              93         94          187          P            
+Seminar (10IS86)                                   0          40          40           P            
+Average : 62.8
+Result : FAIL
+Congratulations!
+---------------------
+
+Name : KOMAL (1ox11is046) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    63         20          83           P            
+System Modeling and Simulation (10CS82)            60         22          82           P            
+Information and Network Security (10IS835)         53         16          69           P            
+Clouds, Grids and Clusters (10IS845)               42         21          63           P            
+Project Work (10IS85)                              96         97          193          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 70.8
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : KRISHNAVENI.R (1ox11is047) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    70         23          93           P            
+System Modeling and Simulation (10CS82)            74         25          99           P            
+Web 2.0 & Rich Internet Applications (10IS832)     60         25          85           P            
+Clouds, Grids and Clusters (10IS845)               55         25          80           P            
+Project Work (10IS85)                              98         97          195          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 79.73
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SMITHA GUZAR L (1ox11is048) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    65         20          85           P            
+System Modeling and Simulation (10CS82)            64         23          87           P            
+Web 2.0 & Rich Internet Applications (10IS832)     50         24          74           P            
+Clouds, Grids and Clusters (10IS845)               45         23          68           P            
+Project Work (10IS85)                              91         97          188          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 72.8
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : LAVANYA V (1ox11is049) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    48         17          65           P            
+System Modeling and Simulation (10CS82)            49         23          72           P            
+Information and Network Security (10IS835)         35         21          56           P            
+Clouds, Grids and Clusters (10IS845)               57         22          79           P            
+Project Work (10IS85)                              92         95          187          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 67.07
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : MALAVIKA L (1ox11is050) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    62         20          82           P            
+System Modeling and Simulation (10CS82)            70         22          92           P            
+Web 2.0 & Rich Internet Applications (10IS832)     52         23          75           P            
+Clouds, Grids and Clusters (10IS845)               60         23          83           P            
+Project Work (10IS85)                              96         98          194          P            
+Seminar (10IS86)                                   0          43          43           P            
+Average : 75.87
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : MANISHA CHAWLA (1ox11is051) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    53         23          76           P            
+Ad-hoc Networks (10IS841)                          80         20          100          P            
+System Modeling and Simulation (10CS82)            68         22          90           P            
+Information and Network Security (10IS835)         40         21          61           P            
+Project Work (10IS85)                              91         96          187          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 74.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : MANJULA P.C (1ox11is052) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    50         21          71           P            
+Ad-hoc Networks (10IS841)                          50         18          68           P            
+System Modeling and Simulation (10CS82)            64         19          83           P            
+Information and Network Security (10IS835)         46         23          69           P            
+Project Work (10IS85)                              90         96          186          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 69.07
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : MARILYN AGNES WHEELER (1ox11is053) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    59         21          80           P            
+System Modeling and Simulation (10CS82)            63         18          81           P            
+Information and Network Security (10IS835)         50         20          70           P            
+Clouds, Grids and Clusters (10IS845)               55         21          76           P            
+Project Work (10IS85)                              92         94          186          P            
+Seminar (10IS86)                                   0          40          40           P            
+Average : 71.07
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : MARY PRADEEPTHI MICHAEL (1ox11is054) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    66         23          89           P            
+System Modeling and Simulation (10CS82)            72         23          95           P            
+Web 2.0 & Rich Internet Applications (10IS832)     66         25          91           P            
+Clouds, Grids and Clusters (10IS845)               57         25          82           P            
+Project Work (10IS85)                              98         98          196          P            
+Seminar (10IS86)                                   0          48          48           P            
+Average : 80.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : MERIN PAUL (1ox11is055) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         22          80           P            
+System Modeling and Simulation (10CS82)            67         25          92           P            
+Web 2.0 & Rich Internet Applications (10IS832)     54         25          79           P            
+Clouds, Grids and Clusters (10IS845)               55         24          79           P            
+Project Work (10IS85)                              98         97          195          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 76.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : MUZAMMIL ZEESHAN AHMED (1ox11is056) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    37         17          54           P            
+System Modeling and Simulation (10CS82)            54         18          72           P            
+Information and Network Security (10IS835)         53         15          68           P            
+Clouds, Grids and Clusters (10IS845)               44         18          62           P            
+Project Work (10IS85)                              95         94          189          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 65.2
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : NANDINI L (1ox11is057) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    38         21          59           P            
+System Modeling and Simulation (10CS82)            71         24          95           P            
+Web 2.0 & Rich Internet Applications (10IS832)     44         25          69           P            
+Clouds, Grids and Clusters (10IS845)               50         24          74           P            
+Project Work (10IS85)                              95         97          192          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 71.2
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : NIHARIKA A.T (1ox11is059) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    48         15          63           P            
+System Modeling and Simulation (10CS82)            67         20          87           P            
+Web 2.0 & Rich Internet Applications (10IS832)     53         21          74           P            
+Clouds, Grids and Clusters (10IS845)               54         22          76           P            
+Project Work (10IS85)                              95         97          192          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 71.47
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : NISHANTH CS (1ox11is060) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    46         18          64           P            
+Ad-hoc Networks (10IS841)                          62         15          77           P            
+System Modeling and Simulation (10CS82)            58         18          76           P            
+Information and Network Security (10IS835)         47         17          64           P            
+Project Work (10IS85)                              95         89          184          P            
+Seminar (10IS86)                                   0          39          39           P            
+Average : 67.2
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : PRAVEEN.K.M (1ox11is063) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         19          77           P            
+Ad-hoc Networks (10IS841)                          55         23          78           P            
+System Modeling and Simulation (10CS82)            63         19          82           P            
+Information and Network Security (10IS835)         59         22          81           P            
+Project Work (10IS85)                              95         89          184          P            
+Seminar (10IS86)                                   0          39          39           P            
+Average : 72.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : PRIYANKA D (1ox11is064) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    57         24          81           P            
+Ad-hoc Networks (10IS841)                          54         22          76           P            
+System Modeling and Simulation (10CS82)            63         24          87           P            
+Web 2.0 & Rich Internet Applications (10IS832)     45         20          65           P            
+Project Work (10IS85)                              97         98          195          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 73.07
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : PUNITH.K.R (1ox11is065) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    43         22          65           P            
+Ad-hoc Networks (10IS841)                          55         15          70           P            
+System Modeling and Simulation (10CS82)            54         21          75           P            
+Information and Network Security (10IS835)         44         19          63           P            
+Project Work (10IS85)                              91         90          181          P            
+Seminar (10IS86)                                   0          39          39           P            
+Average : 65.73
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : RABIYA FIRDOS (1ox11is066) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         24          82           P            
+System Modeling and Simulation (10CS82)            63         23          86           P            
+Information and Network Security (10IS835)         47         20          67           P            
+Clouds, Grids and Clusters (10IS845)               60         20          80           P            
+Project Work (10IS85)                              96         97          193          P            
+Seminar (10IS86)                                   0          43          43           P            
+Average : 73.47
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : RAJESH P P (1ox11is068) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    44         22          66           P            
+Ad-hoc Networks (10IS841)                          43         16          59           P            
+System Modeling and Simulation (10CS82)            52         15          67           P            
+Information and Network Security (10IS835)         49         18          67           P            
+Project Work (10IS85)                              96         89          185          P            
+Seminar (10IS86)                                   0          39          39           P            
+Average : 64.4
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : RAKSHITH R (1ox11is069) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    57         23          80           P            
+Ad-hoc Networks (10IS841)                          62         22          84           P            
+System Modeling and Simulation (10CS82)            68         24          92           P            
+Information and Network Security (10IS835)         53         22          75           P            
+Project Work (10IS85)                              98         98          196          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 75.87
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : RAKSHITHA H M (1ox11is070) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    41         24          65           P            
+Ad-hoc Networks (10IS841)                          42         22          64           P            
+System Modeling and Simulation (10CS82)            68         22          90           P            
+Web 2.0 & Rich Internet Applications (10IS832)     47         21          68           P            
+Project Work (10IS85)                              97         98          195          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 70.4
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : RAMESH H Y (1ox11is071) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    41         24          65           P            
+Ad-hoc Networks (10IS841)                          44         18          62           P            
+System Modeling and Simulation (10CS82)            64         25          89           P            
+Web 2.0 & Rich Internet Applications (10IS832)     48         24          72           P            
+Project Work (10IS85)                              95         95          190          P            
+Seminar (10IS86)                                   0          43          43           P            
+Average : 70.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : RANJITHA R HEGDE (1ox11is072) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    40         24          64           P            
+Ad-hoc Networks (10IS841)                          80         24          104          P            
+System Modeling and Simulation (10CS82)            73         25          98           P            
+Web 2.0 & Rich Internet Applications (10IS832)     76         25          101          P            
+Project Work (10IS85)                              98         98          196          P            
+Seminar (10IS86)                                   0          49          49           P            
+Average : 81.6
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : RAWIAH TOUKHEER AFTAB (1ox11is073) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    52         24          76           P            
+Ad-hoc Networks (10IS841)                          67         21          88           P            
+System Modeling and Simulation (10CS82)            79         23          102          P            
+Web 2.0 & Rich Internet Applications (10IS832)     56         22          78           P            
+Project Work (10IS85)                              97         97          194          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 77.2
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : REEMA RATNAKAR NAYAK (1ox11is074) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    62         24          86           P            
+Ad-hoc Networks (10IS841)                          53         20          73           P            
+System Modeling and Simulation (10CS82)            70         25          95           P            
+Web 2.0 & Rich Internet Applications (10IS832)     35         22          57           P            
+Project Work (10IS85)                              96         92          188          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 72.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : REKHA NIVEDA H (1ox11is075) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    73         24          97           P            
+System Modeling and Simulation (10CS82)            78         23          101          P            
+Web 2.0 & Rich Internet Applications (10IS832)     52         24          76           P            
+Clouds, Grids and Clusters (10IS845)               54         23          77           P            
+Project Work (10IS85)                              98         98          196          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 79.07
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : ROHINI KATTI (1ox11is076) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    64         21          85           P            
+Ad-hoc Networks (10IS841)                          52         20          72           P            
+System Modeling and Simulation (10CS82)            71         25          96           P            
+Information and Network Security (10IS835)         63         17          80           P            
+Project Work (10IS85)                              97         94          191          P            
+Seminar (10IS86)                                   0          40          40           P            
+Average : 75.2
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SAHANA S KUMAR (1ox11is079) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    66         23          89           P            
+Ad-hoc Networks (10IS841)                          78         23          101          P            
+System Modeling and Simulation (10CS82)            80         25          105          P            
+Web 2.0 & Rich Internet Applications (10IS832)     56         25          81           P            
+Project Work (10IS85)                              96         94          190          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 81.47
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SALMA SULTANA RASUL SHAIKH (1ox11is080) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    70         24          94           P            
+Ad-hoc Networks (10IS841)                          75         22          97           P            
+System Modeling and Simulation (10CS82)            72         24          96           P            
+Web 2.0 & Rich Internet Applications (10IS832)     51         24          75           P            
+Project Work (10IS85)                              98         97          195          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 80.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SAMEER.V.DHARWADKAR (1ox11is081) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    59         23          82           P            
+Ad-hoc Networks (10IS841)                          66         21          87           P            
+System Modeling and Simulation (10CS82)            62         25          87           P            
+Information and Network Security (10IS835)         36         20          56           P            
+Project Work (10IS85)                              95         93          188          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 72.67
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SANJANA.SWAMY.B (1ox11is082) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    71         23          94           P            
+Ad-hoc Networks (10IS841)                          77         24          101          P            
+System Modeling and Simulation (10CS82)            77         25          102          P            
+Web 2.0 & Rich Internet Applications (10IS832)     52         25          77           P            
+Project Work (10IS85)                              98         98          196          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 82.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SHAMA ERUM R (1ox11is084) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    65         24          89           P            
+System Modeling and Simulation (10CS82)            61         25          86           P            
+Information and Network Security (10IS835)         68         21          89           P            
+Clouds, Grids and Clusters (10IS845)               64         22          86           P            
+Project Work (10IS85)                              95         92          187          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 77.47
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SHEKAR.S (1ox11is085) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    60         21          81           P            
+Ad-hoc Networks (10IS841)                          76         20          96           P            
+System Modeling and Simulation (10CS82)            50         25          75           P            
+Information and Network Security (10IS835)         65         18          83           P            
+Project Work (10IS85)                              92         87          179          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 74.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SHIKHA KUMARI (1ox11is086) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    47         21          68           P            
+System Modeling and Simulation (10CS82)            52         23          75           P            
+Information and Network Security (10IS835)         48         20          68           P            
+Clouds, Grids and Clusters (10IS845)               48         22          70           P            
+Project Work (10IS85)                              97         93          190          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 68.27
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : SHRUTI.B.L (1ox11is088) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    44         19          63           P            
+Ad-hoc Networks (10IS841)                          56         18          74           P            
+System Modeling and Simulation (10CS82)            60         20          80           P            
+Information and Network Security (10IS835)         49         17          66           P            
+Project Work (10IS85)                              96         98          194          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 69.2
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : SINDHURA .V (1ox11is089) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    62         23          85           P            
+Ad-hoc Networks (10IS841)                          84         23          107          P            
+System Modeling and Simulation (10CS82)            69         21          90           P            
+Web 2.0 & Rich Internet Applications (10IS832)     46         25          71           P            
+Project Work (10IS85)                              95         98          193          P            
+Seminar (10IS86)                                   0          49          49           P            
+Average : 79.33
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SONU JAIN V (1ox11is091) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    59         24          83           P            
+Ad-hoc Networks (10IS841)                          85         21          106          P            
+System Modeling and Simulation (10CS82)            76         25          101          P            
+Web 2.0 & Rich Internet Applications (10IS832)     49         22          71           P            
+Project Work (10IS85)                              97         98          195          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 80.0
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SPANDANA (1ox11is092) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    56         23          79           P            
+Ad-hoc Networks (10IS841)                          71         21          92           P            
+System Modeling and Simulation (10CS82)            59         23          82           P            
+Web 2.0 & Rich Internet Applications (10IS832)     35         24          59           P            
+Project Work (10IS85)                              95         94          189          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 72.4
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SPARSHA.G (1ox11is093) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         22          80           P            
+Ad-hoc Networks (10IS841)                          70         21          91           P            
+System Modeling and Simulation (10CS82)            69         23          92           P            
+Web 2.0 & Rich Internet Applications (10IS832)     35         24          59           P            
+Project Work (10IS85)                              96         98          194          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 74.67
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SRIVIDYA .N (1ox11is094) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    63         24          87           P            
+Ad-hoc Networks (10IS841)                          69         21          90           P            
+System Modeling and Simulation (10CS82)            61         25          86           P            
+Web 2.0 & Rich Internet Applications (10IS832)     43         21          64           P            
+Project Work (10IS85)                              97         96          193          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 75.2
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SUDHANVA P (1ox11is096) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    43         23          66           P            
+Ad-hoc Networks (10IS841)                          50         18          68           P            
+System Modeling and Simulation (10CS82)            56         20          76           P            
+Information and Network Security (10IS835)         38         19          57           P            
+Project Work (10IS85)                              98         98          196          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 67.73
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : SUJITH KUMAR K.S (1ox11is097) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    55         23          78           P            
+Ad-hoc Networks (10IS841)                          65         21          86           P            
+System Modeling and Simulation (10CS82)            58         23          81           P            
+Information and Network Security (10IS835)         62         20          82           P            
+Project Work (10IS85)                              90         96          186          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 74.53
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SWATHI M N (1ox11is100) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    53         22          75           P            
+Ad-hoc Networks (10IS841)                          65         20          85           P            
+System Modeling and Simulation (10CS82)            62         22          84           P            
+Information and Network Security (10IS835)         62         21          83           P            
+Project Work (10IS85)                              96         98          194          P            
+Seminar (10IS86)                                   0          44          44           P            
+Average : 75.33
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SYED NOORULLA (1ox11is102) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    66         20          86           P            
+Ad-hoc Networks (10IS841)                          63         21          84           P            
+System Modeling and Simulation (10CS82)            60         15          75           P            
+Web 2.0 & Rich Internet Applications (10IS832)     66         24          90           P            
+Project Work (10IS85)                              93         87          180          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 74.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SYED SAIFFUDDIN (1ox11is103) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         23          81           P            
+System Modeling and Simulation (10CS82)            57         23          80           P            
+Web 2.0 & Rich Internet Applications (10IS832)     47         24          71           P            
+Clouds, Grids and Clusters (10IS845)               54         23          77           P            
+Project Work (10IS85)                              98         95          193          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 72.93
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : SYED SHUAIB MOHAMMED (1ox11is104) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    39         22          61           P            
+Ad-hoc Networks (10IS841)                          61         18          79           P            
+System Modeling and Simulation (10CS82)            62         22          84           P            
+Web 2.0 & Rich Internet Applications (10IS832)     42         18          60           P            
+Project Work (10IS85)                              97         97          194          P            
+Seminar (10IS86)                                   0          40          40           P            
+Average : 69.07
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : SYEDA FAIZA (1ox11is105) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    58         24          82           P            
+Ad-hoc Networks (10IS841)                          63         23          86           P            
+System Modeling and Simulation (10CS82)            78         24          102          P            
+Web 2.0 & Rich Internet Applications (10IS832)     45         23          68           P            
+Project Work (10IS85)                              98         97          195          P            
+Seminar (10IS86)                                   0          43          43           P            
+Average : 76.8
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : THRIBUVAN B N (1ox11is106) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    52         20          72           P            
+Ad-hoc Networks (10IS841)                          41         17          58           P            
+System Modeling and Simulation (10CS82)            54         17          71           P            
+Information and Network Security (10IS835)         53         19          72           P            
+Project Work (10IS85)                              86         97          183          P            
+Seminar (10IS86)                                   0          42          42           P            
+Average : 66.4
+Result : FIRST CLASS
+Congratulations!
+---------------------
+
+Name : TRAPTI N NAYAK (1ox11is107) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    61         23          84           P            
+Ad-hoc Networks (10IS841)                          66         21          87           P            
+System Modeling and Simulation (10CS82)            70         25          95           P            
+Web 2.0 & Rich Internet Applications (10IS832)     60         21          81           P            
+Project Work (10IS85)                              98         93          191          P            
+Seminar (10IS86)                                   0          46          46           P            
+Average : 77.87
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : VIDYASHREE B (1ox11is111) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    60         24          84           P            
+System Modeling and Simulation (10CS82)            70         23          93           P            
+Web 2.0 & Rich Internet Applications (10IS832)     63         25          88           P            
+Clouds, Grids and Clusters (10IS845)               55         24          79           P            
+Project Work (10IS85)                              97         93          190          P            
+Seminar (10IS86)                                   0          41          41           P            
+Average : 76.67
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : VIJAYALAKSHMI.V (1ox11is112) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    56         22          78           P            
+System Modeling and Simulation (10CS82)            76         24          100          P            
+Web 2.0 & Rich Internet Applications (10IS832)     57         23          80           P            
+Clouds, Grids and Clusters (10IS845)               54         23          77           P            
+Project Work (10IS85)                              98         93          191          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 76.13
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : VIKAS.U.B (1ox11is113) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    54         24          78           P            
+Ad-hoc Networks (10IS841)                          59         15          74           P            
+System Modeling and Simulation (10CS82)            69         17          86           P            
+Information and Network Security (10IS835)         62         15          77           P            
+Project Work (10IS85)                              97         92          189          P            
+Seminar (10IS86)                                   0          43          43           P            
+Average : 72.93
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : VISHAK C (1ox11is116) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    64         23          87           P            
+Ad-hoc Networks (10IS841)                          66         18          84           P            
+System Modeling and Simulation (10CS82)            69         23          92           P            
+Information and Network Security (10IS835)         55         15          70           P            
+Project Work (10IS85)                              94         96          190          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 75.73
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+
+Name : VISMITA VINAYAK KULKARNI (1ox11is118) 
+Semester: 8
+Subjects                                        External   Internal     Total        Status                        
+Software Architectures (10IS81)                    53         22          75           P            
+System Modeling and Simulation (10CS82)            73         24          97           P            
+Information and Network Security (10IS835)         56         17          73           P            
+Clouds, Grids and Clusters (10IS845)               60         22          82           P            
+Project Work (10IS85)                              97         94          191          P            
+Seminar (10IS86)                                   0          45          45           P            
+Average : 75.07
+Result : FIRST CLASS WITH DISTINCTION
+Congratulations!
+---------------------
+

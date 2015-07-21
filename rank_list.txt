@@ -1,0 +1,89 @@
+001. SANJANA.SWAMY.B (1ox11is082)                      615	82.0
+002. RANJITHA R HEGDE (1ox11is072)                     612	81.6
+003. DARSHINI P (1ox11is030)                           611	81.47
+004. SAHANA S KUMAR (1ox11is079)                       611	81.47
+005. MARY PRADEEPTHI MICHAEL (1ox11is054)              601	80.13
+006. SALMA SULTANA RASUL SHAIKH (1ox11is080)           601	80.13
+007. SONU JAIN V (1ox11is091)                          600	80.0
+008. AMALA A (1ox11is012)                              599	79.87
+009. ANUSHA M (1ox11is015)                             599	79.87
+010. KRISHNAVENI.R (1ox11is047)                        598	79.73
+011. SINDHURA .V (1ox11is089)                          595	79.33
+012. REKHA NIVEDA H (1ox11is075)                       593	79.07
+013. HAVISH L (1ox11is039)                             585	78.0
+014. TRAPTI N NAYAK (1ox11is107)                       584	77.87
+015. SHAMA ERUM R (1ox11is084)                         581	77.47
+016. AISHWARYA R (1ox11is006)                          580	77.33
+017. RAWIAH TOUKHEER AFTAB (1ox11is073)                579	77.2
+018. SYEDA FAIZA (1ox11is105)                          576	76.8
+019. VIDYASHREE B (1ox11is111)                         575	76.67
+020. MERIN PAUL (1ox11is055)                           571	76.13
+021. VIJAYALAKSHMI.V (1ox11is112)                      571	76.13
+022. DEEPIKA .P (1ox11is032)                           570	76.0
+023. KHIZER AHMED (1ox11is044)                         569	75.87
+024. MALAVIKA L (1ox11is050)                           569	75.87
+025. RAKSHITH R (1ox11is069)                           569	75.87
+026. VISHAK C (1ox11is116)                             568	75.73
+027. ANUPA.C.S (1ox11is014)                            566	75.47
+028. SWATHI M N (1ox11is100)                           565	75.33
+029. ROHINI KATTI (1ox11is076)                         564	75.2
+030. SRIVIDYA .N (1ox11is094)                          564	75.2
+031. VISMITA VINAYAK KULKARNI (1ox11is118)             563	75.07
+032. APARNA G K (1ox11is016)                           561	74.8
+033. CHAITHRA.R (1ox11is026)                           561	74.8
+034. SPARSHA.G (1ox11is093)                            560	74.67
+035. SUJITH KUMAR K.S (1ox11is097)                     559	74.53
+036. CHAITRA.S (1ox11is027)                            558	74.4
+037. CHANDU A (1ox11is028)                             556	74.13
+038. MANISHA CHAWLA (1ox11is051)                       556	74.13
+039. SHEKAR.S (1ox11is085)                             556	74.13
+040. SYED NOORULLA (1ox11is102)                        556	74.13
+041. RABIYA FIRDOS (1ox11is066)                        551	73.47
+042. PRIYANKA D (1ox11is064)                           548	73.07
+043. SYED SAIFFUDDIN (1ox11is103)                      547	72.93
+044. VIKAS.U.B (1ox11is113)                            547	72.93
+045. SMITHA GUZAR L (1ox11is048)                       546	72.8
+046. SAMEER.V.DHARWADKAR (1ox11is081)                  545	72.67
+047. KAVUTURU SOBHARAJ (1ox11is042)                    544	72.53
+048. SPANDANA (1ox11is092)                             543	72.4
+049. BHAVANA.P (1ox11is023)                            542	72.27
+050. C.MALCOLM RICHARD (1ox11is025)                    541	72.13
+051. DEEKSHA.N.L.S (1ox11is031)                        541	72.13
+052. DHARNISH.S (1ox11is034)                           541	72.13
+053. PRAVEEN.K.M (1ox11is063)                          541	72.13
+054. REEMA RATNAKAR NAYAK (1ox11is074)                 540	72.0
+055. ABRAR AHMED KHAN (1ox11is004)                     538	71.73
+056. HARSHA.M.V (1ox11is038)                           538	71.73
+057. NIHARIKA A.T (1ox11is059)                         536	71.47
+058. KARTHIK.B.P. (1ox11is041)                         535	71.33
+059. NANDINI L (1ox11is057)                            534	71.2
+060. MARILYN AGNES WHEELER (1ox11is053)                533	71.07
+061. KOMAL (1ox11is046)                                531	70.8
+062. KARTHIK E (1ox11is040)                            528	70.4
+063. RAKSHITHA H M (1ox11is070)                        528	70.4
+064. AKSHATHAKUMARI.S (1ox11is009)                     527	70.27
+065. AJAY KUMAR M (1ox11is007)                         525	70.0
+066. ARUNA.V (1ox11is018)                              525	70.0
+067. CHIRANJEEVI G.R (1ox11is029)                      525	70.0
+068. DHARMESH S PATEL (1ox11is033)                     525	70.0
+069. RAMESH H Y (1ox11is071)                           525	70.0
+070. SHRUTI.B.L (1ox11is088)                           519	69.2
+071. ALOK L K (1ox11is010)                             518	69.07
+072. MANJULA P.C (1ox11is052)                          518	69.07
+073. SYED SHUAIB MOHAMMED (1ox11is104)                 518	69.07
+074. AZEEMULLA SHARIFF (1ox11is020)                    517	68.93
+075. HARISH.V.N (1ox11is037)                           514	68.53
+076. ARPITHA.S (1ox11is017)                            512	68.27
+077. SHIKHA KUMARI (1ox11is086)                        512	68.27
+078. ASHISH KUMAR (1ox11is019)                         510	68.0
+079. SUDHANVA P (1ox11is096)                           508	67.73
+080. NISHANTH CS (1ox11is060)                          504	67.2
+081. KAVYASHREE.A. (1ox11is043)                        503	67.07
+082. LAVANYA V (1ox11is049)                            503	67.07
+083. THRIBUVAN B N (1ox11is106)                        498	66.4
+084. ABIRAL DEV BHATTA (1ox11is003)                    494	65.87
+085. PUNITH.K.R (1ox11is065)                           493	65.73
+086. MUZAMMIL ZEESHAN AHMED (1ox11is056)               489	65.2
+087. RAJESH P P (1ox11is068)                           483	64.4
+088. ABHISHEK RAJ (1ox11is002)                         474	63.2
+089. KHUSHBOO KUMARI (1ox11is045)                      471	62.8
