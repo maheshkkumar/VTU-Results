@@ -7,7 +7,7 @@ VTU Results Python Package
 """
 
 from constants import BASE_URL
-from utils import get_result
+from utils import get_result, get_entire_result
 import sys
 
 class VR(object):
