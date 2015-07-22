@@ -1,3 +1,6 @@
+## v1.8.0
+- Fix: Bug Fixes and versioning the package
+
 ## v1.7.0
 - Fix: Bug Fixes and versioning the package
 
