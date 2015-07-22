@@ -31,8 +31,8 @@ def get_entire_result(usn):
         response = requests.get(BASE_URL, params=payload).text
         return BeautifulSoup(response, 'html.parser')
     except requests.exceptions.Timeout as e:
-        print "Sorry, Time Out : ", e 
+        print "\nSorry, Time Out : ", e 
     except requests.exceptions.TooManyRedirects as e:
-        print "Sorry, Too Many Redirects : ", e
+        print "\nSorry, Too Many Redirects : ", e
     except requests.exceptions.RequestException as e:
-        print "Sorry, Catastrophic Error : ",e  
+        print "\nSorry, Catastrophic Error : ",e  

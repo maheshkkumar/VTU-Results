@@ -347,7 +347,9 @@ class VR(object):
       print "\n Keyboard Interrupt" 
     except IndexError:
       print "\n Some Error Occurred"  
-       
+    except AttributeError:
+      print "\n Some Error Occurred"
+
     try:
       sorted_avg = sorted(final_average, reverse=True)
       final_result = zip(final_names, final_marks)
