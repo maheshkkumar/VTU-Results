@@ -1,3 +1,6 @@
+## v1.7.0
+- Fix: Bug Fixes and versioning the package
+
 ## v1.6.0
 - Fix: Versioning the package
 
