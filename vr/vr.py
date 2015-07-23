@@ -53,10 +53,10 @@ class VR(object):
         for i in mark:
             marks.append(i.text)
         
-        external = marks[4::4]
-        internal = marks[5::4]
-        total = marks[6::4]
-        status = marks[7::4]    
+        external = marks[4:36:4]
+        internal = marks[5:36:4]
+        total = marks[6:36:4]
+        status = marks[7:36:4]    
         
         variables = soup.find_all('td')
         for i in variables:
@@ -67,28 +67,49 @@ class VR(object):
         text.append("Name : "+s_data[2])
         print s_data[3] + " "+ s_data[4]+"\n"
         text.append(s_data[3] + " "+ s_data[4])
-        print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
-        text.append("{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
+        print "{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
+        text.append("{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
         for i,j,k,l,m in zip(subjects, external, internal, total, status):
-            text.append('{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
-            print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
+            text.append('{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
+            print '{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
         
         print "\n"    
         try:
-          total_marks = int(marks_variables[97])
           sem = int(s_data[4])
-          print "Total Marks : ", total_marks
           #text.append("Total Marks : "+marks_variables[97])
           
           if sem == 8:
-            text.append("Average : "+str(round(float(total_marks * 100)/750, 2)))
-            print "Average : "+str(round(float(total_marks * 100)/750, 2))
+            #total_marks = int(marks_variables[97])
+            total_m = 0
+            for i in range(len(total)):
+              total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+            #print"Total Marks caluculated using for loop is :",total_m
+            print "Total Marks : ", total_m
+            text.append("Total Marks : "+str(total_m))
+            text.append("Average : "+str(round(float(total_m * 100)/750, 2)))
+            print "Average : "+str(round(float(total_m * 100)/750, 2))
+          
           elif sem == 1 or sem == 2:
-            text.append("Average : "+str(round(float(total_marks * 100)/775, 2)))
-            print "Average : ",round(float(total_marks * 100)/775, 2)
+            total_marks = int(marks_variables[97])
+            total_m = 0
+            for i in range(len(total)-1):
+              total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+            #print"Total Marks caluculated using for loop is :",sum
+            print "Total Marks : ", total_m
+            text.append("Total Marks : "+str(total_m))
+            text.append("Average : "+str(round(float(total_m * 100)/775, 2)))
+            print "Average : ",round(float(total_m * 100)/775, 2)
+          
           else:
-            text.append("Average : "+str(round(float(total_marks * 100)/900, 2)))
-            print "Average : ",round(float(total_marks * 100)/900, 2)
+            total_marks = int(marks_variables[97])
+            total_m = 0
+            for i in range(len(total)):
+              total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+            #print"Total Marks caluculated using for loop is :",sum
+            print "Total Marks : ", total_m
+            text.append("Total Marks : "+str(total_m))
+            text.append("Average : "+str(round(float(total_m * 100)/900, 2)))
+            print "Average : ",round(float(total_m * 100)/900, 2)
 
           res =  s_data[5].split()[1:] 
           text.append('Result : '+' '.join(res))
@@ -148,11 +169,11 @@ class VR(object):
           for i in mark:
               marks.append(i.text)
           
-          external = marks[4::4]
-          internal = marks[5::4]
-          total = marks[6::4]
-          status = marks[7::4]    
-          
+          external = marks[4:36:4]
+          internal = marks[5:36:4]
+          total = marks[6:36:4]
+          status = marks[7:36:4]    
+            
           variables = soup.find_all('td')
           for i in variables:
               marks_variables.append(i.text)
@@ -162,28 +183,42 @@ class VR(object):
           text.append("Name : "+s_data[2])
           print s_data[3] + " "+ s_data[4]+"\n"
           text.append(s_data[3] + " "+ s_data[4])
-          print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
-          text.append("{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
+          print "{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
+          text.append("{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
           for i,j,k,l,m in zip(subjects, external, internal, total, status):
-              text.append('{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
-              print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
+              text.append('{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
+              print '{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
           
           print "\n"    
           try:
-            total_marks = int(marks_variables[97])
+            #total_marks = int(marks_variables[97])
             sem = int(s_data[4])
             print "Total Marks : ", total_marks
             #text.append("Total Marks : "+marks_variables[97])
             
             if sem == 8:
-              text.append("Average : "+str(round(float(total_marks * 100)/750, 2)))
-              print "Average : "+str(round(float(total_marks * 100)/750, 2))
+              total_m = 0
+              for i in range(len(total)):
+                total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+              text.append("Total Marks : "+str(total_m))
+              text.append("Average : "+str(round(float(total_m * 100)/750, 2)))
+              print "Average : "+str(round(float(total_m * 100)/750, 2))
+            
             elif sem == 1 or sem == 2:
-              text.append("Average : "+str(round(float(total_marks * 100)/775, 2)))
-              print "Average : ",round(float(total_marks * 100)/775, 2)
+              total_m = 0
+              for i in range(len(total)-1):
+                total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+              text.append("Total Marks : "+str(total_m))
+              text.append("Average : "+str(round(float(total_m * 100)/775, 2)))
+              print "Average : ",round(float(total_m * 100)/775, 2)
+            
             else:
-              text.append("Average : "+str(round(float(total_marks * 100)/900, 2)))
-              print "Average : ",round(float(total_marks * 100)/900, 2)
+              total_m = 0
+              for i in range(len(total)):
+                total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+              text.append("Total Marks : "+str(total_m))  
+              text.append("Average : "+str(round(float(total_m * 100)/900, 2)))
+              print "Average : ",round(float(total_m * 100)/900, 2)
 
             res =  s_data[5].split()[1:] 
             text.append('Result : '+' '.join(res))
@@ -270,47 +305,101 @@ class VR(object):
             for i in mark:
                 marks.append(i.text)
             
-            external = marks[4::4]
-            internal = marks[5::4]
-            total = marks[6::4]
-            status = marks[7::4]    
-            
-            variables = soup.find_all('td')
-            for i in variables:
-                marks_variables.append(i.text)
-            #print "---------------------------------------------------------------------------------------------------"    
-            #print "ta-da!\n"    
-            #print "Name : "+s_data[2]
-            text.append("Name : "+s_data[2])
-            #print s_data[3] + " "+ s_data[4]+"\n"
-            text.append(s_data[3] + " "+ s_data[4])
-            #print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
-            text.append("{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
-            for i,j,k,l,m in zip(subjects, external, internal, total, status):
-                text.append('{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
-                #print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
-            
             #print "\n"    
             try:
-              total_marks = int(marks_variables[97])
+              #total_marks = int(marks_variables[97])
               sem = int(s_data[4])
               final_names.append(s_data[2])
-              final_marks.append(total_marks)
+              
               #print "Total Marks : ", total_marks
               #text.append("Total Marks : "+marks_variables[97])
               
               if sem == 8:
-                avg = round(float(total_marks * 100)/750, 2)
+                external = marks[4:28:4]
+                internal = marks[5:28:4]
+                total = marks[6:28:4]
+                status = marks[7:28:4]    
+                  
+                variables = soup.find_all('td')
+                for i in variables:
+                    marks_variables.append(i.text)
+                #print "---------------------------------------------------------------------------------------------------"    
+                #print "ta-da!\n"    
+                #print "Name : "+s_data[2]
+                text.append("Name : "+s_data[2])
+                #print s_data[3] + " "+ s_data[4]+"\n"
+                text.append(s_data[3] + " "+ s_data[4])
+                #print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
+                text.append("{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
+                for i,j,k,l,m in zip(subjects, external, internal, total, status):
+                    text.append('{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
+                    #print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
+                total_m = 0
+                for i in range(len(total)):
+                  total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+                final_marks.append(total_m)
+                avg = round(float(total_m * 100)/750, 2)
+                text.append("Total Marks : "+str(total_m))
                 text.append("Average : "+str(avg))
                 final_average.append(avg)
                 #print "Average : "+str(avg)
+
               elif sem == 1 or sem == 2:
-                avg = round(float(total_marks * 100)/775, 2)
+                external = marks[4:36:4]
+                internal = marks[5:36:4]
+                total = marks[6:36:4]
+                status = marks[7:36:4]    
+                  
+                variables = soup.find_all('td')
+                for i in variables:
+                    marks_variables.append(i.text)
+                #print "---------------------------------------------------------------------------------------------------"    
+                #print "ta-da!\n"    
+                #print "Name : "+s_data[2]
+                text.append("Name : "+s_data[2])
+                #print s_data[3] + " "+ s_data[4]+"\n"
+                text.append(s_data[3] + " "+ s_data[4])
+                #print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
+                text.append("{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
+                for i,j,k,l,m in zip(subjects, external, internal, total, status):
+                    text.append('{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
+                    #print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
+                total_m = 0
+                for i in range(len(total)-1):
+                  total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+                final_marks.append(total_m)
+                avg = round(float(total_m * 100)/775, 2)
+                text.append("Total Marks : "+str(total_m))
                 text.append("Average : "+str(avg))
                 final_average.append(avg)
                 #print "Average : "+str(avg)
+
               else:
-                avg = round(float(total_marks * 100)/900, 2)
+                external = marks[4:28:4]
+                internal = marks[5:28:4]
+                total = marks[6:28:4]
+                status = marks[7:28:4]    
+                  
+                variables = soup.find_all('td')
+                for i in variables:
+                    marks_variables.append(i.text)
+                #print "---------------------------------------------------------------------------------------------------"    
+                #print "ta-da!\n"    
+                #print "Name : "+s_data[2]
+                text.append("Name : "+s_data[2])
+                #print s_data[3] + " "+ s_data[4]+"\n"
+                text.append(s_data[3] + " "+ s_data[4])
+                #print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
+                text.append("{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
+                for i,j,k,l,m in zip(subjects, external, internal, total, status):
+                    text.append('{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
+                    #print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
+                total_m = 0
+                for i in range(len(total)):
+                  total_m = total_m+int(str(total[i].encode('ascii', 'ignore')))
+                final_marks.append(total_m)
+                avg = round(float(total_m * 100)/900, 2)
+                text.append("Total Marks : "+str(total_m))
                 text.append("Average : "+str(avg))
                 final_average.append(avg)
                 #print "Average : "+str(avg)
