@@ -5,7 +5,7 @@ Python Package to fetch [VTU](http://results.vtu.ac.in) Results.
 
 | Build Status | Dependency Status | Version | License | Downloads |
 | ------------ | ------------- | ------- | -------------------|--------------- |
-| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [![Dependency Status](https://gemnasium.com/maheshkkumar/VTUResults.svg)](https://gemnasium.com/maheshkkumar/VTUResults) | [![Foo](https://img.shields.io/badge/version-v1.9.0-blue.svg)](https://pypi.python.org/pypi/VTUResults/1.9.0) | [![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/maheshkkumar/VTUResults/master/LICENSE) |[![Foo](https://img.shields.io/badge/downloads-3k%2Fmonth-blue.svg)](https://pypi.python.org/pypi/VTUResults/1.9.0) |
+| [![Build Status](https://travis-ci.org/maheshkkumar/VTUResults.svg?branch=master)](https://travis-ci.org/maheshkkumar/VTUResults) | [![Dependency Status](https://gemnasium.com/maheshkkumar/VTUResults.svg)](https://gemnasium.com/maheshkkumar/VTUResults) | [![Foo](https://img.shields.io/badge/version-v1.9.0-blue.svg)](https://pypi.python.org/pypi/VTUResults/1.9.0) | [![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/maheshkkumar/VTUResults/master/LICENSE) |[![Foo](https://img.shields.io/badge/downloads-4k%2Fmonth-blue.svg)](https://pypi.python.org/pypi/VTUResults/1.9.0) |
 
 
 
