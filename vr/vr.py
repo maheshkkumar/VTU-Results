@@ -334,10 +334,20 @@ class VR(object):
   def get_entire_result(self):
     text_file = open('result_class.txt', 'w')
     rank_file = open('rank_list.txt', 'w')
+    analysis_file = open('analysis_file.txt', 'w')
     final_names = []
     final_marks = []
     flag = 0
     final_average = []
+    subject1 = []
+    subject2 = []
+    subject3 = []
+    subject4 = []
+    subject5 = []
+    subject6 = []
+    subject7 = []
+    subject8 = []
+    analysis = []
     print "------------------------------------------------------------------"
     print "Enter the USN format data as shown below "
     print "USN Format - 1XX11XX010"
@@ -368,6 +378,7 @@ class VR(object):
         variable = []
         valid = []
         text = []
+        total_subjects = []
         self.usn = usn
         if len(usn) == 10:
           # function to fetch the html format of the request usn's result
@@ -383,9 +394,6 @@ class VR(object):
           #else:
           if 'not' not in valid:
             # finding all the subjects
-            subject = soup.find_all('i')
-            for i in subject:
-                subjects.append(i.text)
             # finding the student data
             student_data = soup.find_all('b')
             for i in student_data:
@@ -405,11 +413,44 @@ class VR(object):
               #text.append("Total Marks : "+marks_variables[97])
               
               if sem == 8:
+                subject = soup.find_all('i')
+                for i in subject:
+                    subjects.append(i.text)
+                    if i.text in total_subjects:
+                      pass
+                    else:
+                      total_subjects.append(i.text)
+                for i in list(set(total_subjects) - set(subjects)):
+                  total_subjects.append(i)
+                #print "\n"+str(subjects)      
+                #print "\n"+str(total_subjects)
                 external = marks[4:28:4]
                 internal = marks[5:28:4]
                 total = marks[6:28:4]
-                status = marks[7:28:4]    
-                  
+                status = marks[7:28:4]
+                #print status
+                
+                subject1.append(status[0])
+                subject2.append(status[1])
+                subject3.append(status[2])
+                subject4.append(status[3])
+                subject5.append(status[4])
+                subject6.append(status[5])
+                #subject7.append(status[6])
+                #subject8.append(status[7])
+                
+                '''
+                subject7_pass = subject1.count('P')
+                subject7_fail = subject1.count('F')
+                subject7_absent = subject1.count('A')
+                analysis.append(subjects[6]+'\n'+'Pass : '+subject7_pass+'\n'+'Fail : '+subject7_fail+'\n'+'Absent : '+subject7_absent+'\n\n')
+
+                subject8_pass = subject1.count('P')
+                subject8_fail = subject1.count('F')
+                subject8_absent = subject1.count('A')
+                analysis.append(subjects[7]+'\n'+'Pass : '+subject8_pass+'\n'+'Fail : '+subject8_fail+'\n'+'Absent : '+subject8_absent+'\n\n')
+                '''
+
                 variables = soup.find_all('td')
                 for i in variables:
                     marks_variables.append(i.text)
@@ -422,7 +463,7 @@ class VR(object):
                 #print "{0:47s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status")
                 text.append("{0:57s} {1:10s} {2:12s} {3:12s} {4:30s}".format("Subjects", "External", "Internal", "Total", "Status"))
                 for i,j,k,l,m in zip(subjects, external, internal, total, status):
-                    text.append('{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m))
+                    text.append('{0:60s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l, m))
                     #print '{0:50s} {1:10s} {2:11s} {3:12s} {4:13s}'.format(i, j, k, l,m)
                 total_m = 0
                 for i in range(len(total)):
@@ -537,7 +578,40 @@ class VR(object):
       for x,y,z in zip(topper, topper_marks, sorted_avg):
         flag += 1
         rank_file.write(str('%03d' %flag)+'. '+'{0:50s}'.format(x)+str(y)+'\t'+str(round(z, 2))+'\n')
+      
+      subject1_pass = subject1.count('P')
+      subject1_fail = subject1.count('F')
+      subject1_absent = subject1.count('A')
+      analysis.append(subjects[0]+'\n'+'Pass : '+str(subject1_pass)+'\n'+'Fail : '+str(subject1_fail)+'\n'+'Absent : '+str(subject1_absent)+'\n\n')
 
+      subject2_pass = subject1.count('P')
+      subject2_fail = subject1.count('F')
+      subject2_absent = subject1.count('A')
+      analysis.append(subjects[1]+'\n'+'Pass : '+str(subject2_pass)+'\n'+'Fail : '+str(subject2_fail)+'\n'+'Absent : '+str(subject2_absent)+'\n\n')
+
+      subject3_pass = subject1.count('P')
+      subject3_fail = subject1.count('F')
+      subject3_absent = subject1.count('A')
+      analysis.append(subjects[2]+'\n'+'Pass : '+str(subject3_pass)+'\n'+'Fail : '+str(subject3_fail)+'\n'+'Absent : '+str(subject3_absent)+'\n\n')
+
+      subject4_pass = subject1.count('P')
+      subject4_fail = subject1.count('F')
+      subject4_absent = subject1.count('A')
+      analysis.append(subjects[3]+'\n'+'Pass : '+str(subject4_pass)+'\n'+'Fail : '+str(subject4_fail)+'\n'+'Absent : '+str(subject4_absent)+'\n\n')
+
+      subject5_pass = subject1.count('P')
+      subject5_fail = subject1.count('F')
+      subject5_absent = subject1.count('A')
+      analysis.append(subjects[4]+'\n'+'Pass : '+str(subject5_pass)+'\n'+'Fail : '+str(subject5_fail)+'\n'+'Absent : '+str(subject5_absent)+'\n\n')
+
+      subject6_pass = subject1.count('P')
+      subject6_fail = subject1.count('F')
+      subject6_absent = subject1.count('A')
+      analysis.append(subjects[5]+'\n'+'Pass : '+str(subject6_pass)+'\n'+'Fail : '+str(subject6_fail)+'\n'+'Absent : '+str(subject6_absent)+'\n\n')
+      #print total_subjects
+      #for i in subj:
+        #analysis_file.write(format('{0:50s}'.format(i)+'\n'))
+        #analysis_file.write(format('{0:50s}'.format(str(i))+'\n'))
     except ValueError:
       print "\nSome Error Occured"
     except KeyboardInterrupt:
@@ -545,6 +619,8 @@ class VR(object):
     except IndexError:
       print "\n Some Error Occurred"  
     print "\nDetailed Result and Rank List files have been generated.\nThe End!"    
+    #analysis.append(str(total_subjects))
     text_file.close()
     rank_file.close()
+    analysis_file.close()
     
