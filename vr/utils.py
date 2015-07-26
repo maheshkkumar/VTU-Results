@@ -35,4 +35,4 @@ def get_entire_result(usn):
     except requests.exceptions.TooManyRedirects as e:
         print "\nSorry, Too Many Redirects : ", e
     except requests.exceptions.RequestException as e:
-        print "\nSorry, Catastrophic Error : ",e  
+        print "\nSorry, Catastrophic Error : ", e  
