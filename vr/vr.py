@@ -139,10 +139,10 @@ class VR(object):
             print "Average : ",round(float(total_m * 100)/775, 2)
           
           else:
-            external = marks[4:28:4]
-            internal = marks[5:28:4]
-            total = marks[6:28:4]
-            status = marks[7:28:4]    
+            external = marks[4:36:4]
+            internal = marks[5:36:4]
+            total = marks[6:36:4]
+            status = marks[7:36:4]    
             
             variables = soup.find_all('td')
             for i in variables:
