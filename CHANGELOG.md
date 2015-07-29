@@ -1,3 +1,6 @@
+## v2.0.1
+- Fix: Bug Fixes and versioning the package
+
 ## v2.0.0
 - Fix: Bug Fixes and versioning the package
 
