@@ -91,7 +91,7 @@ Python Dependencies
 ========
 ##### [requests](http://docs.python-requests.org/en/latest/)
 
-    $ pip install requests
+    $ sudo pip install requests
 
 Requests is a Python HTTP library, released under the Apache2 License. The goal of the project is to make HTTP requests simpler and more human-friendly.
 
@@ -99,7 +99,7 @@ Requests takes all of the work out of Python HTTP/1.1 — making your integratio
 
 ##### [beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/)
 
-    $ pip install beautifulsoup4
+    $ sudo pip install beautifulsoup4
 
 Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
 
