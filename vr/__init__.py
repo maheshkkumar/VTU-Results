@@ -4,7 +4,7 @@
 Python Package for fetching VTU Results
 
 @author - Mahesh Kumar K
-@email maheshk2194@gmail.com
+@email - maheshkumar.wdp21@gmail.com
 
 '''
 
