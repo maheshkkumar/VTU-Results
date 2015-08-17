@@ -15,7 +15,7 @@ class VR(object):
   def __init__(self):
     pass
 
-  # Method to fetch single USN Result
+  # Method to fetch single USN Result.
   # For every result that is fetched, it will be written to 'result.txt' and will also be displayed on the terminal
   
   def get_usn(self, usn):
