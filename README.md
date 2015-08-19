@@ -19,7 +19,7 @@ Features
 - All the results will be exported to a .txt file in the current working directory
 - In `get_entire_result` method, `rank_list.txt` and `result_class.txt` will be created, the former file will contain the rank list of all the students and the latter file will contain the entire result data of all the students.
 - In `get_group_usn` method, `results.txt` will be created in the current working directory, this file will contain all the result data of your chosen USN.
-- In `get_usn` method, `result.txt` will be created and it will contain the result of a single USN.
+- In `get_usn` method, `result.txt` will be created and it will contain the result of a single USN
 
 Installation
 ========
